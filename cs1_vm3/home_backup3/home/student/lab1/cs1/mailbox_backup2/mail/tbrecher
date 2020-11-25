@@ -1,0 +1,304 @@
+From ljrafols@ljrafols.com  Fri Nov 13 21:31:13 2020
+Return-Path: <ljrafols@ljrafols.com>
+X-Original-To: tbrecher@aurora-cdt.com
+Delivered-To: tbrecher@aurora-cdt.com
+Received: by mail.aurora-cdt.com (Postfix, from userid 1005)
+	id 5AFE830C0D20; Fri, 13 Nov 2020 21:31:13 -0500 (EST)
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on
+	cmascarinas-pri.aurora-cdt.com
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.2 required=5.0 tests=ALL_TRUSTED,
+	DKIM_ADSP_NXDOMAIN autolearn=no autolearn_force=no version=3.4.2
+Received: from mail.ljrafols.com (unknown [192.168.26.3])
+	by mail.aurora-cdt.com (Postfix) with ESMTPS id 0F62930C0D1F
+	for <tbrecher@aurora-cdt.com>; Fri, 13 Nov 2020 21:31:13 -0500 (EST)
+Received: by mail.ljrafols.com (Postfix, from userid 1002)
+	id 8AA0430645F7; Fri, 13 Nov 2020 21:31:45 -0500 (EST)
+Date: Fri, 13 Nov 2020 21:31:45 -0500
+To: tbrecher@aurora-cdt.com
+Subject: ljrafols
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <20201114023145.8AA0430645F7@mail.ljrafols.com>
+From: ljrafols@ljrafols.com
+Status: RO
+X-IMAPbase: 1605319857 0000000008
+X-UID: 2                                                  
+
+owo it actually works
+
+From ljrafols@ljrafols.com  Fri Nov 13 22:17:28 2020
+Return-Path: <ljrafols@ljrafols.com>
+X-Original-To: tbrecher@aurora-cdt.com
+Delivered-To: tbrecher@aurora-cdt.com
+Received: by mail.aurora-cdt.com (Postfix, from userid 1005)
+	id 92B0630C0D2A; Fri, 13 Nov 2020 22:17:28 -0500 (EST)
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on
+	cmascarinas-pri.aurora-cdt.com
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.2 required=5.0 tests=ALL_TRUSTED,
+	DKIM_ADSP_NXDOMAIN autolearn=no autolearn_force=no version=3.4.2
+Received: from mail.ljrafols.com (unknown [192.168.26.3])
+	by mail.aurora-cdt.com (Postfix) with ESMTPS id 6758030C0D28
+	for <tbrecher@aurora-cdt.com>; Fri, 13 Nov 2020 22:17:28 -0500 (EST)
+Received: by mail.ljrafols.com (Postfix, from userid 1002)
+	id D6F6C30645F7; Fri, 13 Nov 2020 22:18:00 -0500 (EST)
+Date: Fri, 13 Nov 2020 22:18:00 -0500
+To: tbrecher@aurora-cdt.com
+Subject: ljrafols dovecot
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <20201114031800.D6F6C30645F7@mail.ljrafols.com>
+From: ljrafols@ljrafols.com
+X-UID: 3                                                  
+Status: RO
+
+owo it actually works
+
+From tbrecher@aurora-cdt.com  Sat Nov 14 00:46:43 2020
+Return-Path: <tbrecher@aurora-cdt.com>
+X-Original-To: tbrecher@aurora-cdt.com
+Delivered-To: tbrecher@aurora-cdt.com
+Received: by mail.aurora-cdt.com (Postfix, from userid 1007)
+	id D967A30C0D2C; Sat, 14 Nov 2020 00:46:43 -0500 (EST)
+Date: Sat, 14 Nov 2020 00:46:43 -0500
+To: tbrecher@aurora-cdt.com
+Subject: Spam filter test
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <20201114054643.D967A30C0D2C@mail.aurora-cdt.com>
+From: tbrecher@aurora-cdt.com
+Status: RO
+X-UID: 4                                                  
+
+XJSC4JDBQADN1.NSBN32IDNENGTUBE-STANDARD-ANTI-UBE-TEST-EMAILC.34X
+[12:43 AM]
+
+From tbrecher@tbrecher.com  Sat Nov 14 00:48:00 2020
+Return-Path: <tbrecher@tbrecher.com>
+X-Original-To: tbrecher@aurora-cdt.com
+Delivered-To: tbrecher@aurora-cdt.com
+Received: by mail.aurora-cdt.com (Postfix, from userid 1005)
+	id ED07B30C0D2E; Sat, 14 Nov 2020 00:48:00 -0500 (EST)
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on
+	cmascarinas-pri.aurora-cdt.com
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.2 required=5.0 tests=ALL_TRUSTED,
+	DKIM_ADSP_NXDOMAIN,TVD_SPACE_RATIO,TVD_SPACE_RATIO_MINFP autolearn=no
+	autolearn_force=no version=3.4.2
+Received: from mail.tbrecher.com (unknown [192.168.4.3])
+	by mail.aurora-cdt.com (Postfix) with ESMTPS id BE0CE30C0D2C
+	for <tbrecher@aurora-cdt.com>; Sat, 14 Nov 2020 00:48:00 -0500 (EST)
+Received: by mail.tbrecher.com (Postfix, from userid 1002)
+	id 8AC4E306B76A; Sat, 14 Nov 2020 00:47:56 -0500 (EST)
+Date: Sat, 14 Nov 2020 00:47:56 -0500
+To: tbrecher@aurora-cdt.com
+Subject: test
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <20201114054756.8AC4E306B76A@mail.tbrecher.com>
+From: tbrecher@tbrecher.com
+Status: RO
+X-UID: 5                                                  
+
+XJSC4JDBQADN1.NSBN32IDNENGTUBE-STANDARD-ANTI-UBE-TEST-EMAILC.34X
+
+From MAILER-DAEMON  Sat Nov 14 01:05:11 2020
+Return-Path: <>
+X-Original-To: tbrecher@aurora-cdt.com
+Delivered-To: tbrecher@aurora-cdt.com
+Received: by mail.aurora-cdt.com (Postfix)
+	id 3E08530C0D2F; Sat, 14 Nov 2020 01:05:11 -0500 (EST)
+Date: Sat, 14 Nov 2020 01:05:11 -0500 (EST)
+From: MAILER-DAEMON@aurora-cdt.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: tbrecher@aurora-cdt.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="19A0530C0D2E.1605333911/mail.aurora-cdt.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20201114060511.3E08530C0D2F@mail.aurora-cdt.com>
+Status: RO
+X-UID: 6                                                  
+Content-Length: 1949
+
+This is a MIME-encapsulated message.
+
+--19A0530C0D2E.1605333911/mail.aurora-cdt.com
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host mail.aurora-cdt.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<tbrecher@tbrecher.com>: Host or domain name not found. Name service error for
+    name=tbrecher.com type=AAAA: Host not found
+
+--19A0530C0D2E.1605333911/mail.aurora-cdt.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.aurora-cdt.com
+X-Postfix-Queue-ID: 19A0530C0D2E
+X-Postfix-Sender: rfc822; tbrecher@aurora-cdt.com
+Arrival-Date: Sat, 14 Nov 2020 01:05:11 -0500 (EST)
+
+Final-Recipient: rfc822; tbrecher@tbrecher.com
+Original-Recipient: rfc822;tbrecher@tbrecher.com
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=tbrecher.com type=AAAA: Host not found
+
+--19A0530C0D2E.1605333911/mail.aurora-cdt.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <tbrecher@aurora-cdt.com>
+Received: by mail.aurora-cdt.com (Postfix, from userid 1007)
+	id 19A0530C0D2E; Sat, 14 Nov 2020 01:05:11 -0500 (EST)
+Date: Sat, 14 Nov 2020 01:05:11 -0500
+To: tbrecher@tbrecher.com
+Subject: Testing firewall on VM3
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <20201114060511.19A0530C0D2E@mail.aurora-cdt.com>
+From: tbrecher@aurora-cdt.com
+
+This is a test
+
+--19A0530C0D2E.1605333911/mail.aurora-cdt.com--
+
+From tbrecher@tbrecher.com  Sat Nov 14 01:07:53 2020
+Return-Path: <tbrecher@tbrecher.com>
+X-Original-To: tbrecher@aurora-cdt.com
+Delivered-To: tbrecher@aurora-cdt.com
+Received: by mail.aurora-cdt.com (Postfix, from userid 1005)
+	id 61CBD30C0D2F; Sat, 14 Nov 2020 01:07:53 -0500 (EST)
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on
+	cmascarinas-pri.aurora-cdt.com
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.2 required=5.0 tests=ALL_TRUSTED,
+	DKIM_ADSP_NXDOMAIN,TVD_SPACE_RATIO,TVD_SPACE_RATIO_MINFP autolearn=no
+	autolearn_force=no version=3.4.2
+Received: from mail.tbrecher.com (unknown [192.168.4.3])
+	by mail.aurora-cdt.com (Postfix) with ESMTPS id 2127E30C0D2C
+	for <tbrecher@aurora-cdt.com>; Sat, 14 Nov 2020 01:07:53 -0500 (EST)
+Received: by mail.tbrecher.com (Postfix, from userid 1002)
+	id E4621306B76D; Sat, 14 Nov 2020 01:07:48 -0500 (EST)
+Date: Sat, 14 Nov 2020 01:07:48 -0500
+To: tbrecher@aurora-cdt.com
+Subject: Testing spam
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <20201114060748.E4621306B76D@mail.tbrecher.com>
+From: tbrecher@tbrecher.com
+X-UID: 7                                                  
+Status: RO
+
+XJSC4JDBQADN1.NSBN32IDNENGTUBE-STANDARD-ANTI-UBE-TEST-EMAILC.34X
+
+From MAILER-DAEMON  Sat Nov 14 01:15:05 2020
+Return-Path: <>
+X-Original-To: tbrecher@aurora-cdt.com
+Delivered-To: tbrecher@aurora-cdt.com
+Received: by mail.aurora-cdt.com (Postfix)
+	id A6BDC30C0D2F; Sat, 14 Nov 2020 01:15:05 -0500 (EST)
+Date: Sat, 14 Nov 2020 01:15:05 -0500 (EST)
+From: MAILER-DAEMON@aurora-cdt.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: tbrecher@aurora-cdt.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B41130C0D2C.1605334505/mail.aurora-cdt.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20201114061505.A6BDC30C0D2F@mail.aurora-cdt.com>
+X-UID: 8                                                 
+Status: RO
+Content-Length: 1960
+
+This is a MIME-encapsulated message.
+
+--9B41130C0D2C.1605334505/mail.aurora-cdt.com
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host mail.aurora-cdt.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<tbrecher@tbrecher.com>: Host or domain name not found. Name service error for
+    name=tbrecher.com type=AAAA: Host not found
+
+--9B41130C0D2C.1605334505/mail.aurora-cdt.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.aurora-cdt.com
+X-Postfix-Queue-ID: 9B41130C0D2C
+X-Postfix-Sender: rfc822; tbrecher@aurora-cdt.com
+Arrival-Date: Sat, 14 Nov 2020 01:15:05 -0500 (EST)
+
+Final-Recipient: rfc822; tbrecher@tbrecher.com
+Original-Recipient: rfc822;tbrecher@tbrecher.com
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=tbrecher.com type=AAAA: Host not found
+
+--9B41130C0D2C.1605334505/mail.aurora-cdt.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <tbrecher@aurora-cdt.com>
+Received: by mail.aurora-cdt.com (Postfix, from userid 1007)
+	id 9B41130C0D2C; Sat, 14 Nov 2020 01:15:05 -0500 (EST)
+Date: Sat, 14 Nov 2020 01:15:05 -0500
+To: tbrecher@tbrecher.com
+Subject: Testing Firewall
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <20201114061505.9B41130C0D2C@mail.aurora-cdt.com>
+From: tbrecher@aurora-cdt.com
+
+This is a test of your firewall!
+
+--9B41130C0D2C.1605334505/mail.aurora-cdt.com--
+

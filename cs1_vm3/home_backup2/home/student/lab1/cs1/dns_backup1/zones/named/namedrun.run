@@ -1,0 +1,1348 @@
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 12
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone localhost.localdomain/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 192.168.20.53#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 13
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:200::b#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:e::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:e::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:40::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:40::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'centos.mirror.rafal.ca/A/IN': 2001:500:200::b#53
+network unreachable resolving 'centos.mirror.rafal.ca/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'centos.mirror.rafal.ca/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'centos.mirror.rafal.ca/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'centos.mirror.rafal.ca/A/IN': 2001:500:1::53#53
+network unreachable resolving 'centos.mirror.rafal.ca/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'centos.mirror.rafal.ca/A/IN': 2604:1500:f001:0:216:3eff:fe3f:746b#53
+network unreachable resolving 'centos.mirror.rafal.ca/A/IN': 2620:120:8000:1f4:216:3eff:fe91:9747#53
+network unreachable resolving 'centos.mirror.rafal.ca/AAAA/IN': 2604:1500:f001:0:216:3eff:fe3f:746b#53
+network unreachable resolving 'centos.mirror.rafal.ca/AAAA/IN': 2620:120:8000:1f4:216:3eff:fe91:9747#53
+network unreachable resolving 'ca/DNSKEY/IN': 2001:500:a7::2#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'kanye.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'kanye.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'melinda.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'melinda.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'mirror.netaddicted.ca/A/IN': 2606:4700:58::adf5:3bbd#53
+network unreachable resolving 'mirror.netaddicted.ca/AAAA/IN': 2606:4700:58::adf5:3bbd#53
+network unreachable resolving 'mirror.netaddicted.ca/A/IN': 2803:f800:50::6ca2:c0c6#53
+network unreachable resolving 'mirror.netaddicted.ca/AAAA/IN': 2803:f800:50::6ca2:c0c6#53
+network unreachable resolving 'mirror.netaddicted.ca/A/IN': 2a06:98c1:50::ac40:21bd#53
+network unreachable resolving 'mirror.netaddicted.ca/AAAA/IN': 2a06:98c1:50::ac40:21bd#53
+network unreachable resolving 'mirror.netaddicted.ca/A/IN': 2606:4700:50::adf5:3ac6#53
+network unreachable resolving 'mirror.netaddicted.ca/AAAA/IN': 2606:4700:50::adf5:3ac6#53
+network unreachable resolving 'mirror.netaddicted.ca/A/IN': 2803:f800:50::6ca2:c1bd#53
+network unreachable resolving 'mirror.netaddicted.ca/AAAA/IN': 2803:f800:50::6ca2:c1bd#53
+network unreachable resolving 'mirror.netaddicted.ca/AAAA/IN': 2a06:98c1:50::ac40:20c6#53
+network unreachable resolving 'mirror.netaddicted.ca.cmascarinas-pri.aurora-cdt.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'mirror.netaddicted.ca.cmascarinas-pri.aurora-cdt.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'mirror.netaddicted.ca.cmascarinas-pri.aurora-cdt.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mirror.netaddicted.ca.cmascarinas-pri.aurora-cdt.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mirror.netaddicted.ca.cmascarinas-pri.aurora-cdt.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mirror.netaddicted.ca.cmascarinas-pri.aurora-cdt.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mirror.netaddicted.ca.cmascarinas-pri.aurora-cdt.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'mirror.netaddicted.ca.cmascarinas-pri.aurora-cdt.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:b::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:f::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:40::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:e::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:c::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:48::1#53
+network unreachable resolving 'org/DNSKEY/IN': 2001:500:48::1#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:dc3::35#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:7fe::53#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:500:1::53#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:500:200::b#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:7fd::1#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:500:2::c#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2001:67c:13cc::1:60#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2a04:2b00:13ff::60#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2a04:2b00:13cc::1:60#53
+network unreachable resolving 'centos.mirror.globo.tech/AAAA/IN': 2a04:2b00:13ee::60#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2a04:2b00:13ee::60#53
+network unreachable resolving 'centos.mirror.globo.tech/A/IN': 2001:67c:13cc::1:60#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2400:cb00:2049:1::a29f:852#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2400:cb00:2049:1::a29f:852#53
+network unreachable resolving 'mirror2.evolution-host.com/A/IN': 2400:cb00:2049:1::a29f:998#53
+network unreachable resolving 'mirror2.evolution-host.com/AAAA/IN': 2400:cb00:2049:1::a29f:998#53
+network unreachable resolving 'evolution-host.com/DNSKEY/IN': 2607:5300:204:42c0:5e5c:8935:ec93:1#53
+network unreachable resolving 'centos.westmancom.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'centos.westmancom.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'centos.westmancom.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'centos.westmancom.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'centos.westmancom.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'centos.westmancom.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'centos.westmancom.com/A/IN': 2607:0:2:1:216:36:128:2#53
+network unreachable resolving 'centos.westmancom.com/AAAA/IN': 2607:0:2:1:216:36:128:2#53
+network unreachable resolving 'centos.westmancom.com/A/IN': 2607:0:2:1:216:36:128:3#53
+network unreachable resolving 'centos.westmancom.com/AAAA/IN': 2607:0:2:1:216:36:128:3#53
+network unreachable resolving 'westmancom.com/DS/IN': 2001:502:7094::30#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:f::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:e::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:48::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:b::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:40::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:c::1#53
+network unreachable resolving 'org/DNSKEY/IN': 2001:500:40::1#53
+network unreachable resolving 'org/DNSKEY/IN': 2001:500:c::1#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:500:2::c#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:500:1::53#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:500:1::53#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:7fd::1#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:7fd::1#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:500:200::b#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:500:200::b#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:7fe::53#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:7fe::53#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:dc3::35#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:dc3::35#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'ns-49.awsdns-06.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'ns-49.awsdns-06.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'ns-939.awsdns-53.net/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'ns-939.awsdns-53.net/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'ns-1683.awsdns-18.co.uk/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'centos.mirror.netelligent.ca.cmascarinas-pri.aurora-cdt.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'centos.mirror.netelligent.ca.cmascarinas-pri.aurora-cdt.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'centos.mirror.netelligent.ca.cmascarinas-pri.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'centos.mirror.netelligent.ca.cmascarinas-pri.aurora-cdt.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'centos.mirror.netelligent.ca.cmascarinas-pri.aurora-cdt.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'centos.mirror.netelligent.ca.cmascarinas-pri.aurora-cdt.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-pri.aurora-cdt.com/A/IN': 2001:503:eea3::30#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 192.168.20.53#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 14
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:eea3::30#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.20.3#53
+no longer listening on 192.168.20.3#53
+no longer listening on 192.168.20.53#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 15
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:856e::30#53
+resolver priming query complete
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+client @0x7f31f00fb8d0 192.168.20.3#50918 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7f31f00fb8d0 192.168.20.3#44471 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.20.3#53
+no longer listening on 192.168.20.3#53
+no longer listening on 192.168.20.53#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 16
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:a83e::2:30#53
+resolver priming query complete
+client @0x7fcfac0fb7c0 192.168.20.3#41081 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7fcfac0fb7c0 192.168.20.3#60331 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7fcfac0fb7c0 192.168.20.3#37677 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7fcfac0a2920 127.0.0.1#50185 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+received control channel command 'flush'
+flushing caches in all views succeeded
+client @0x7fcfac0fb7c0 192.168.20.3#42196 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7fcfac0a2920 127.0.0.1#48268 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7fcfac0fb7c0 192.168.20.3#55697 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+received control channel command 'flush'
+flushing caches in all views succeeded
+client @0x7fcfac0fb7c0 192.168.20.3#47005 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7fcfac0a2920 127.0.0.1#46949 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+received control channel command 'reload'
+loading configuration from '/etc/named.conf'
+unable to open '/etc/bind.keys'; using built-in keys instead
+looking for GeoIP2 databases in '/usr/share/GeoIP'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-Country.mmdb'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-City.mmdb'
+using default UDP/IPv4 port range: [32768, 60999]
+using default UDP/IPv6 port range: [32768, 60999]
+sizing zone task pool based on 6 zones
+none:104: 'max-cache-size 90%' - setting to 1644MB (out of 1826MB)
+none:104: 'max-cache-size 90%' - setting to 1644MB (out of 1826MB)
+configuring command channel from '/etc/rndc.key'
+configuring command channel from '/etc/rndc.key'
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+client @0x7fcfac0fb7c0 192.168.20.3#47840 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+received control channel command 'flush'
+flushing caches in all views succeeded
+received control channel command 'reload'
+loading configuration from '/etc/named.conf'
+unable to open '/etc/bind.keys'; using built-in keys instead
+looking for GeoIP2 databases in '/usr/share/GeoIP'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-Country.mmdb'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-City.mmdb'
+using default UDP/IPv4 port range: [32768, 60999]
+using default UDP/IPv6 port range: [32768, 60999]
+sizing zone task pool based on 6 zones
+none:104: 'max-cache-size 90%' - setting to 1644MB (out of 1826MB)
+none:104: 'max-cache-size 90%' - setting to 1644MB (out of 1826MB)
+configuring command channel from '/etc/rndc.key'
+configuring command channel from '/etc/rndc.key'
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+client @0x7fcfac0a2920 127.0.0.1#34919 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7fcfac0fb7c0 192.168.20.3#53131 (aurora-cdt.com): query (cache) 'aurora-cdt.com/A/IN' denied
+client @0x7fcfac0a2920 127.0.0.1#60675 (aurora-cdt.com): query (cache) 'aurora-cdt.com/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.20.3#53
+no longer listening on 192.168.20.3#53
+no longer listening on 192.168.20.53#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 19
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:7094::30#53
+resolver priming query complete
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:39c1::30#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.20.3#53
+no longer listening on 192.168.20.3#53
+no longer listening on 192.168.20.53#53
+exiting
+managed-keys-zone: loaded serial 20
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:8cc::30#53
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.20.3#53
+no longer listening on 192.168.20.3#53
+no longer listening on 192.168.20.53#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 21
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:1ca1::30#53
+resolver priming query complete
+client @0x7f788c0fb7c0 192.168.20.3#45870 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7f788c0fb7c0 192.168.20.3#56945 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7f788c0a2920 127.0.0.1#58371 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.20.3#53
+no longer listening on 192.168.20.3#53
+no longer listening on 192.168.20.53#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 22
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone localhost.localdomain/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 2613558943
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:501:b1f9::30#53
+resolver priming query complete
+client @0x7ff8280fb7c0 192.168.20.3#60952 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7ff8280a2920 127.0.0.1#57821 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+client @0x7ff8280fb7c0 192.168.20.3#37301 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.20.3#53
+no longer listening on 192.168.20.3#53
+no longer listening on 192.168.20.53#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 23
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone aurora-cdt/IN: loaded serial 2613558943
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fd::1#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:200::b#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:200::b#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'cmascarinas-rns.aurora-cdt.com/AAAA/IN': 2001:500:d937::30#53
+resolver priming query complete
+received control channel command 'flush'
+flushing caches in all views succeeded
+received control channel command 'reload'
+loading configuration from '/etc/named.conf'
+unable to open '/etc/bind.keys'; using built-in keys instead
+looking for GeoIP2 databases in '/usr/share/GeoIP'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-Country.mmdb'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-City.mmdb'
+using default UDP/IPv4 port range: [32768, 60999]
+using default UDP/IPv6 port range: [32768, 60999]
+sizing zone task pool based on 6 zones
+none:104: 'max-cache-size 90%' - setting to 1644MB (out of 1826MB)
+none:104: 'max-cache-size 90%' - setting to 1644MB (out of 1826MB)
+configuring command channel from '/etc/rndc.key'
+configuring command channel from '/etc/rndc.key'
+reloading configuration succeeded
+reloading zones succeeded
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+client @0x7fee500a2920 127.0.0.1#40719 (cmascarinas-pri.aurora-cdt.com): query (cache) 'cmascarinas-pri.aurora-cdt.com/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.20.3#53
+no longer listening on 192.168.20.3#53
+no longer listening on 192.168.20.53#53
+exiting

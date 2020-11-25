@@ -1,0 +1,5 @@
+Server:		192.168.20.53
+Address:	192.168.20.53#53
+
+aurora-cdt.com	mail exchanger = 10 mail.aurora-cdt.com.
+

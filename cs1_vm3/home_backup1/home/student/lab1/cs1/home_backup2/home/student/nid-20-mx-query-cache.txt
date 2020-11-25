@@ -1,0 +1,10 @@
+Server:		192.168.20.2
+Address:	192.168.20.2#53
+
+Non-authoritative answer:
+aurora-cdt.com	mail exchanger = 10 mail.aurora-cdt.com.
+
+Authoritative answers can be found from:
+aurora-cdt.com	nameserver = cmascarinas-pri.aurora-cdt.com.
+cmascarinas-pri.aurora-cdt.com	internet address = 192.168.20.53
+

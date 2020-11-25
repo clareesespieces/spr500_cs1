@@ -1,0 +1,98 @@
+reloading configuration succeeded
+reloading zones succeeded
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+client @0x7f57d00fb970 192.168.20.2#13195 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#24989 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.3#63897 (.): query (cache) './DNSKEY/IN' denied
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2d::d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fd::1#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fe::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2::c#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:12::d0d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2f::f#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:dc3::35#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:200::b#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:1::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:9f::42#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#56193 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.3#7189 (.): query (cache) './DNSKEY/IN' denied
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:12::d0d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2::c#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:dc3::35#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fd::1#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:9f::42#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2d::d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2f::f#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:1::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:a8::e#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:200::b#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53

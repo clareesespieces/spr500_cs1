@@ -1,0 +1,31 @@
+#!/bin/bash 
+
+route add -net 192.168.1.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.2.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.3.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.4.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.5.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.6.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.7.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.8.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.9.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.10.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.11.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.12.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.13.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.14.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.15.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.16.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.17.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.18.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.19.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.21.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.22.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.23.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.24.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.25.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.26.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.27.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.28.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.29.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224
+route add -net 192.168.30.0 netmask 255.255.255.0 gw 192.168.20.1 >> /etc/sysconfig/network-scripts/route-ens224

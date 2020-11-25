@@ -1,0 +1,12 @@
+Nov  4 09:12:38 cmascarinas-pri postfix/smtpd[5692]: connect from unknown[unknown]
+Nov  4 09:12:38 cmascarinas-pri postfix/smtpd[5692]: lost connection after CONNECT from unknown[unknown]
+Nov  4 09:12:38 cmascarinas-pri postfix/smtpd[5692]: disconnect from unknown[unknown] commands=0/0
+Nov  4 09:15:58 cmascarinas-pri postfix/anvil[5694]: statistics: max connection rate 1/60s for (smtp:unknown) at Nov  4 09:12:38
+Nov  4 09:15:58 cmascarinas-pri postfix/anvil[5694]: statistics: max connection count 1 for (smtp:unknown) at Nov  4 09:12:38
+Nov  4 09:15:58 cmascarinas-pri postfix/anvil[5694]: statistics: max cache size 1 at Nov  4 09:12:38
+Nov  4 09:50:18 cmascarinas-pri postfix/smtpd[5733]: connect from unknown[unknown]
+Nov  4 09:50:18 cmascarinas-pri postfix/smtpd[5733]: lost connection after CONNECT from unknown[unknown]
+Nov  4 09:50:18 cmascarinas-pri postfix/smtpd[5733]: disconnect from unknown[unknown] commands=0/0
+Nov  4 09:53:39 cmascarinas-pri postfix/anvil[5735]: statistics: max connection rate 1/60s for (smtp:unknown) at Nov  4 09:50:18
+Nov  4 09:53:39 cmascarinas-pri postfix/anvil[5735]: statistics: max connection count 1 for (smtp:unknown) at Nov  4 09:50:18
+Nov  4 09:53:39 cmascarinas-pri postfix/anvil[5735]: statistics: max cache size 1 at Nov  4 09:50:18

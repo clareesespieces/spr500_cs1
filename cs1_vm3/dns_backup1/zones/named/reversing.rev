@@ -1,0 +1,18 @@
+;Reverse
+$TTL	3D
+$ORIGIN	20.168.192.in-addr.arpa.
+@	IN	SOA	cmascarinas-pri.aurora-cdt.com.	hostmaster.aurora-cdt.com. (
+		2018042901	; Serial
+		8H	; Refresh
+		2H	; Retry
+		1W	; Expire
+		1D	; Negative Cache TTL
+);
+	IN	NS	cmascarinas-pri.aurora-cdt.com.
+	IN 	NS	cmascarinas-rns.aurora-cdt.com.
+;        IN      NS        cmascarinas-rns.aurora-cdt.com.
+53	IN	PTR	cmascarinas-pri.aurora-cdt.com.
+253 	IN      PTR	cmascarinas-rns.aurora-cdt.com.
+80	IN	PTR	www.aurora-cdt.com.
+25	IN      PTR	mail.aurora-cdt.com.
+

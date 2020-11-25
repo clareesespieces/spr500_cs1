@@ -1,0 +1,253 @@
+
+ This scan was run on Thu Sep 24 19:35:40 EDT 2020 
+
+ ----------------------------------------------- 
+              GENERAL INFORMATION
+ ------------------------------------------------ 
+
+Hostname:
+vm3
+
+ Operating System:
+"CentOS Linux 8 (Core)"
+
+First Installation:
+ Tue 23 Jun 2020 10:52:13 AM EDT
+
+Current Active User:
+student
+
+ ------------------------------------------------ 
+              HARDWARE INFORMATION
+ ------------------------------------------------ 
+
+ ********** Block Devices Information ***********
+NAME        MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda           8:0    0   20G  0 disk 
+├─sda1        8:1    0    1G  0 part /boot
+└─sda2        8:2    0   19G  0 part 
+  ├─cl-root 253:0    0   17G  0 lvm  /
+  └─cl-swap 253:1    0    2G  0 lvm  [SWAP]
+sr0          11:0    1 1024M  0 rom  
+
+ ********** Disk space usage **********
+Filesystem           Size  Used Avail Use% Mounted on
+devtmpfs             896M     0  896M   0% /dev
+tmpfs                914M     0  914M   0% /dev/shm
+tmpfs                914M   17M  897M   2% /run
+tmpfs                914M     0  914M   0% /sys/fs/cgroup
+/dev/mapper/cl-root   17G  1.5G   16G   9% /
+/dev/sda1            976M  142M  767M  16% /boot
+tmpfs                183M     0  183M   0% /run/user/1000
+
+ ********** Disk Information **********
+vendor_id	: GenuineIntel
+model name	: Intel(R) Xeon(R) CPU E5-2680 0 @ 2.70GHz
+Processor:  1
+Linux Kernel Version: Linux 4.18.0-193.el8.x86_64 x86_64
+
+ ********** Disk Partition Information **********
+Disk /dev/sda: 20 GiB, 21474836480 bytes, 41943040 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0xacf5ce23
+
+Device     Boot   Start      End  Sectors Size Id Type
+/dev/sda1  *       2048  2099199  2097152   1G 83 Linux
+/dev/sda2       2099200 41943039 39843840  19G 8e Linux LVM
+
+
+
+
+Disk /dev/mapper/cl-root: 17 GiB, 18249416704 bytes, 35643392 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/mapper/cl-swap: 2 GiB, 2147483648 bytes, 4194304 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+ ------------------------------------------------- 
+              NETWORK INFORMAITON
+ ------------------------------------------------ 
+
+ ********** DNS Server configured **********
+nameserver 10.101.100.41
+
+ ********** Network devices, IP address, Broadcast, and Netmask **********
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: ens192: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 00:50:56:00:00:4f brd ff:ff:ff:ff:ff:ff
+    inet 172.16.20.3/16 brd 172.16.255.255 scope global dynamic noprefixroute ens192
+       valid_lft 70842sec preferred_lft 70842sec
+    inet6 fe80::250:56ff:fe00:4f/64 scope link 
+       valid_lft forever preferred_lft forever
+3: ens224: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 00:0c:29:56:06:91 brd ff:ff:ff:ff:ff:ff
+
+ ********** IP routes **********
+default via 172.16.255.1 dev ens192 proto dhcp metric 100 
+172.16.0.0/16 dev ens192 proto kernel scope link src 172.16.20.3 metric 100 
+
+ ------------------------------------------------- 
+              SECURITY INFORMATION
+ ------------------------------------------------
+
+ ********** SELinux **********
+     SELinux status:                 enabled
+     SELinuxfs mount:                /sys/fs/selinux
+     SELinux root directory:         /etc/selinux
+     Loaded policy name:             targeted
+     Current mode:                   enforcing
+     Mode from config file:          enforcing
+     Policy MLS status:              enabled
+     Policy deny_unknown status:     allowed
+     Memory protection checking:     actual (secure)
+     Max kernel policy version:      31
+
+ ********** Firewall **********
+Status:     running
+List of services:     cockpit dhcpv6-client ssh
+
+ ---------------------------------------------------
+              SOFTWARE/SERVICE INFORMATION
+ ---------------------------------------------------
+
+ ********** Repo list of Operating System **********
+    repo id                            repo name
+    AppStream                          CentOS-8 - AppStream
+    BaseOS                             CentOS-8 - Base
+    extras                             CentOS-8 - Extras
+
+ ********** Services that are currently running ********** 
+  init.scope                                                                                       loaded active running   System and Service Manager                                                   
+  session-1.scope                                                                                  loaded active running   Session 1 of user student                                                    
+  auditd.service                                                                                   loaded active running   Security Auditing Service                                                    
+  crond.service                                                                                    loaded active running   Command Scheduler                                                            
+  dbus.service                                                                                     loaded active running   D-Bus System Message Bus                                                     
+  firewalld.service                                                                                loaded active running   firewalld - dynamic firewall daemon                                          
+  getty@tty1.service                                                                               loaded active running   Getty on tty1                                                                
+  NetworkManager.service                                                                           loaded active running   Network Manager                                                              
+  polkit.service                                                                                   loaded active running   Authorization Manager                                                        
+  rngd.service                                                                                     loaded active running   Hardware RNG Entropy Gatherer Daemon                                         
+  rsyslog.service                                                                                  loaded active running   System Logging Service                                                       
+  sshd.service                                                                                     loaded active running   OpenSSH server daemon                                                        
+  sssd.service                                                                                     loaded active running   System Security Services Daemon                                              
+  systemd-journald.service                                                                         loaded active running   Journal Service                                                              
+  systemd-logind.service                                                                           loaded active running   Login Service                                                                
+  systemd-udevd.service                                                                            loaded active running   udev Kernel Device Manager                                                   
+  tuned.service                                                                                    loaded active running   Dynamic System Tuning Daemon                                                 
+  user@1000.service                                                                                loaded active running   User Manager for UID 1000                                                    
+  vgauthd.service                                                                                  loaded active running   VGAuth Service for open-vm-tools                                             
+  vmtoolsd.service                                                                                 loaded active running   Service for virtual machines hosted on VMware                                
+  dbus.socket                                                                                      loaded active running   D-Bus System Message Bus Socket                                              
+  systemd-journald-dev-log.socket                                                                  loaded active running   Journal Socket (/dev/log)                                                    
+  systemd-journald.socket                                                                          loaded active running   Journal Socket                                                               
+  systemd-udevd-control.socket                                                                     loaded active running   udev Control Socket                                                          
+  systemd-udevd-kernel.socket                                                                      loaded active running   udev Kernel Socket                                                           
+
+ ********** Services installed but not running ********** 
+  UNIT                                   LOAD      ACTIVE   SUB  DESCRIPTION                                                     
+● boot.automount                         not-found inactive dead boot.automount                                                  
+  proc-sys-fs-binfmt_misc.mount          loaded    inactive dead Arbitrary Executable File Formats File System                   
+  sys-fs-fuse-connections.mount          loaded    inactive dead FUSE Control File System                                        
+● sysroot.mount                          not-found inactive dead sysroot.mount                                                   
+  tmp.mount                              loaded    inactive dead Temporary Directory (/tmp)                                      
+  systemd-ask-password-console.path      loaded    inactive dead Dispatch Password Requests to Console Directory Watch           
+● cloud-init-local.service               not-found inactive dead cloud-init-local.service                                        
+  cpupower.service                       loaded    inactive dead Configure CPU power related settings                            
+● display-manager.service                not-found inactive dead display-manager.service                                         
+  dm-event.service                       loaded    inactive dead Device-mapper event daemon                                      
+  dnf-makecache.service                  loaded    inactive dead dnf makecache                                                   
+  dracut-cmdline.service                 loaded    inactive dead dracut cmdline hook                                             
+  dracut-initqueue.service               loaded    inactive dead dracut initqueue hook                                           
+  dracut-mount.service                   loaded    inactive dead dracut mount hook                                               
+  dracut-pre-mount.service               loaded    inactive dead dracut pre-mount hook                                           
+  dracut-pre-pivot.service               loaded    inactive dead dracut pre-pivot and cleanup hook                               
+  dracut-pre-trigger.service             loaded    inactive dead dracut pre-trigger hook                                         
+  dracut-pre-udev.service                loaded    inactive dead dracut pre-udev hook                                            
+  ebtables.service                       loaded    inactive dead Ethernet Bridge Filtering tables                                
+  emergency.service                      loaded    inactive dead Emergency Shell                                                 
+  initrd-cleanup.service                 loaded    inactive dead Cleaning Up and Shutting Down Daemons                           
+  initrd-parse-etc.service               loaded    inactive dead Reload Configuration from the Real Root                         
+  initrd-switch-root.service             loaded    inactive dead Switch Root                                                     
+  initrd-udevadm-cleanup-db.service      loaded    inactive dead Cleanup udevd DB                                                
+● ip6tables.service                      not-found inactive dead ip6tables.service                                               
+● ipset.service                          not-found inactive dead ipset.service                                                   
+● iptables.service                       not-found inactive dead iptables.service                                                
+  irqbalance.service                     loaded    inactive dead irqbalance daemon                                               
+  ldconfig.service                       loaded    inactive dead Rebuild Dynamic Linker Cache                                    
+  loadmodules.service                    loaded    inactive dead Load legacy module configuration                                
+● lvm2-activation.service                not-found inactive dead lvm2-activation.service                                         
+  lvm2-lvmpolld.service                  loaded    inactive dead LVM2 poll daemon                                                
+  microcode.service                      loaded    inactive dead Load CPU microcode update                                       
+● network.service                        not-found inactive dead network.service                                                 
+  plymouth-quit-wait.service             loaded    inactive dead Hold until boot process finishes up                             
+  plymouth-quit.service                  loaded    inactive dead Terminate Plymouth Boot Screen                                  
+  plymouth-read-write.service            loaded    inactive dead Tell Plymouth To Write Out Runtime Data                         
+  plymouth-start.service                 loaded    inactive dead Show Plymouth Boot Screen                                       
+  plymouth-switch-root.service           loaded    inactive dead Plymouth switch root service                                    
+  rc-local.service                       loaded    inactive dead /etc/rc.d/rc.local Compatibility                                
+  rescue.service                         loaded    inactive dead Rescue Shell                                                    
+  selinux-autorelabel-mark.service       loaded    inactive dead Mark the need to relabel after reboot                           
+  sshd-keygen@ecdsa.service              loaded    inactive dead OpenSSH ecdsa Server Key Generation                             
+  sshd-keygen@ed25519.service            loaded    inactive dead OpenSSH ed25519 Server Key Generation                           
+  sshd-keygen@rsa.service                loaded    inactive dead OpenSSH rsa Server Key Generation                               
+  sssd-kcm.service                       loaded    inactive dead SSSD Kerberos Cache Manager                                     
+  systemd-ask-password-console.service   loaded    inactive dead Dispatch Password Requests to Console                           
+  systemd-ask-password-plymouth.service  loaded    inactive dead Forward Password Requests to Plymouth                           
+  systemd-ask-password-wall.service      loaded    inactive dead Forward Password Requests to Wall                               
+  systemd-binfmt.service                 loaded    inactive dead Set Up Additional Binary Formats                                
+  systemd-coredump@0.service             loaded    inactive dead Process Core Dump                                               
+  systemd-firstboot.service              loaded    inactive dead First Boot Wizard                                               
+  systemd-fsck-root.service              loaded    inactive dead File System Check on Root Device                                
+  systemd-hwdb-update.service            loaded    inactive dead Rebuild Hardware Database                                       
+  systemd-initctl.service                loaded    inactive dead initctl Compatibility Daemon                                    
+  systemd-journal-catalog-update.service loaded    inactive dead Rebuild Journal Catalog                                         
+  systemd-machine-id-commit.service      loaded    inactive dead Commit a transient machine-id on disk                           
+  systemd-modules-load.service           loaded    inactive dead Load Kernel Modules                                             
+  systemd-quotacheck.service             loaded    inactive dead File System Quota Check                                         
+  systemd-sysusers.service               loaded    inactive dead Create System Users                                             
+  systemd-tmpfiles-clean.service         loaded    inactive dead Cleanup of Temporary Directories                                
+  systemd-update-done.service            loaded    inactive dead Update is Completed                                             
+  systemd-update-utmp-runlevel.service   loaded    inactive dead Update UTMP about System Runlevel Changes                       
+  systemd-vconsole-setup.service         loaded    inactive dead Setup Virtual Console                                           
+  unbound-anchor.service                 loaded    inactive dead update of the root trust anchor for DNSSEC validation in unbound
+● ypbind.service                         not-found inactive dead ypbind.service                                                  
+● yppasswdd.service                      not-found inactive dead yppasswdd.service                                               
+● ypserv.service                         not-found inactive dead ypserv.service                                                  
+● ypxfrd.service                         not-found inactive dead ypxfrd.service                                                  
+  system-systemd\x2dcoredump.slice       loaded    inactive dead system-systemd\x2dcoredump.slice                                
+  syslog.socket                          loaded    inactive dead Syslog Socket                                                   
+  systemd-journald-audit.socket          loaded    inactive dead Journal Audit Socket                                            
+  emergency.target                       loaded    inactive dead Emergency Mode                                                  
+  getty-pre.target                       loaded    inactive dead Login Prompts (Pre)                                             
+  graphical.target                       loaded    inactive dead Graphical Interface                                             
+  initrd-fs.target                       loaded    inactive dead Initrd File Systems                                             
+  initrd-root-device.target              loaded    inactive dead Initrd Root Device                                              
+  initrd-root-fs.target                  loaded    inactive dead Initrd Root File System                                         
+  initrd-switch-root.target              loaded    inactive dead Switch Root                                                     
+  initrd.target                          loaded    inactive dead Initrd Default Target                                           
+  remote-fs-pre.target                   loaded    inactive dead Remote File Systems (Pre)                                       
+  rescue.target                          loaded    inactive dead Rescue Mode                                                     
+  shutdown.target                        loaded    inactive dead Shutdown                                                        
+● syslog.target                          not-found inactive dead syslog.target                                                   
+  time-sync.target                       loaded    inactive dead System Time Synchronized                                        
+  umount.target                          loaded    inactive dead Unmount All Filesystems                                         
+
+LOAD   = Reflects whether the unit definition was properly loaded.
+ACTIVE = The high-level unit activation state, i.e. generalization of SUB.
+SUB    = The low-level unit activation state, values depend on unit type.
+
+86 loaded units listed.
+To show all installed unit files use 'systemctl list-unit-files'.

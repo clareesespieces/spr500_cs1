@@ -1,0 +1,60 @@
+From student@aurora-cdt.com  Wed Nov 11 01:15:56 2020
+Return-Path: <student@aurora-cdt.com>
+X-Original-To: g2@aurora-cdt.com
+Delivered-To: g2@aurora-cdt.com
+Received: from aurora-cdt.com (unknown [192.168.20.4])
+	by mail.aurora-cdt.com (Postfix) with SMTP id 9D9FC30983D0
+	for <g2@aurora-cdt.com>; Wed, 11 Nov 2020 01:15:39 -0500 (EST)
+Status: RO
+X-IMAPbase: 1605109779 0000000003
+X-UID: 1                                                  
+
+pls
+
+From student@aurora-cdt.com  Wed Nov 11 10:33:45 2020
+Return-Path: <student@aurora-cdt.com>
+X-Original-To: g2@aurora-cdt.com
+Delivered-To: g2@aurora-cdt.com
+Received: from aurora-cdt.com (unknown [192.168.20.4])
+	by mail.aurora-cdt.com (Postfix) with SMTP id 4D68530983CE
+	for <g2@aurora-cdt.com>; Wed, 11 Nov 2020 10:33:22 -0500 (EST)
+X-UID: 2                                       
+Status: RO
+
+hi pls
+
+From cmascarinas@aurora-cdt.com  Thu Nov 12 22:30:23 2020
+Return-Path: <cmascarinas@aurora-cdt.com>
+X-Original-To: g2@aurora-cdt.com
+Delivered-To: g2@aurora-cdt.com
+Received: by mail.aurora-cdt.com (Postfix, from userid 1005)
+	id EFEDD30D0686; Thu, 12 Nov 2020 22:30:23 -0500 (EST)
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on
+	cmascarinas-pri.aurora-cdt.com
+X-Spam-Flag: YES
+X-Spam-Level: **************************************************
+X-Spam-Status: Yes, score=1004.5 required=5.0 tests=ALL_TRUSTED,GTUBE,
+	MISSING_DATE,MISSING_FROM,MISSING_HEADERS,MISSING_MID,MISSING_SUBJECT,
+	TVD_SPACE_RATIO autolearn=no autolearn_force=no version=3.4.2
+X-Spam-Report: 
+	* -1.0 ALL_TRUSTED Passed through trusted hosts only via SMTP
+	*  1.2 MISSING_HEADERS Missing To: header
+	* 1000 GTUBE BODY: Generic Test for Unsolicited Bulk Email
+	*  1.8 MISSING_SUBJECT Missing Subject: header
+	*  1.4 MISSING_DATE Missing Date: header
+	*  1.0 MISSING_FROM Missing From: header
+	*  0.0 TVD_SPACE_RATIO No description available.
+	*  0.1 MISSING_MID Missing Message-Id: header
+Received: from aurora-cdt.com (unknown [192.168.20.4])
+	by mail.aurora-cdt.com (Postfix) with SMTP id 10D3E30D0684
+	for <g2@aurora-cdt.com>; Thu, 12 Nov 2020 22:30:04 -0500 (EST)
+Subject: [SPAM] 
+X-Spam-Prev-Subject: (nonexistent)
+Message-Id: <20201113033023.EFEDD30D0686@mail.aurora-cdt.com>
+Date: Thu, 12 Nov 2020 22:30:23 -0500 (EST)
+From: cmascarinas@aurora-cdt.com
+X-UID: 3                                                  
+Status: RO
+
+ XJS*C4JDBQADN1.NSBN3*2IDNEN*GTUBE-STANDARD-ANTI-UBE-TEST-EMAIL*C.34X
+

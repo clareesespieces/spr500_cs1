@@ -1,0 +1,1478 @@
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+client @0x7ff66c0fb970 192.168.20.2#34998 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#34998 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#46041 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#46041 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#34479 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#34479 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#53093 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#53093 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#54983 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#54983 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#54832 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#54832 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#43570 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#43570 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#50187 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#50187 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#56585 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#56585 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#44954 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#44954 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#46722 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#46722 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#47619 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#47619 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#51547 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#51547 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#60129 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#60129 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#47854 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#47854 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#52285 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#52285 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#40373 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#40373 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#44468 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#44468 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#35119 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#35119 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#48764 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#48764 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#56317 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#56317 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#46346 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#46346 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#33491 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#33491 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#47841 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7ff66c0fb970 192.168.20.2#47841 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.20.3#53
+no longer listening on 192.168.20.53#53
+no longer listening on 192.168.20.25#53
+no longer listening on 172.16.20.3#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 488
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 20.168.192.in-addr.arpa/IN: loaded serial 2018042901
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone aurora-cdt.com/IN: aurora-cdt.com/MX 'mail.aurora-cdt.com' is a CNAME (illegal)
+zone aurora-cdt.com/IN: loaded serial 2613558943
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+zone 20.168.192.in-addr.arpa/IN: sending notifies (serial 2018042901)
+zone aurora-cdt.com/IN: sending notifies (serial 2613558943)
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+resolver priming query complete
+client @0x7f57d00fb970 192.168.20.2#55222 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55222 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44640 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44640 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36914 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36914 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54523 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54523 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45260 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45260 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58893 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58893 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51897 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51897 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49125 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49125 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40146 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40146 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35955 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35955 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46537 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46537 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40455 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40455 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+client @0x7f57d00fb970 192.168.20.2#38197 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38197 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57949 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57949 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41958 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41958 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34037 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34037 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44332 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44332 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56244 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56244 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56687 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56687 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33888 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33888 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54594 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54594 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38402 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38402 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56124 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56124 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57011 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57011 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47321 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47321 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45058 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45058 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41684 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41684 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57740 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57740 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39501 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39501 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47344 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47344 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33239 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33239 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42924 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42924 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55421 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55421 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50688 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50688 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34692 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34692 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45414 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45414 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59888 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59888 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40506 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40506 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40181 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40181 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54339 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54339 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45872 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45872 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43251 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43251 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57748 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57748 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40881 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40881 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43425 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43425 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35487 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35487 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36903 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36903 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44154 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44154 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+client @0x7f57d00fb970 192.168.20.2#53963 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53963 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58141 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58141 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49857 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49857 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55971 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55971 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60134 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60134 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38073 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38073 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55398 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55398 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43603 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43603 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57520 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57520 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34768 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34768 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37970 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37970 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34767 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34767 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#19925 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#12954 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33967 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#64656 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60128 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#55395 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40500 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#42189 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48516 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#18791 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#11710 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#42584 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#15924 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51317 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55306 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45064 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58514 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51145 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#8863 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#25174 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#56914 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#15362 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#37793 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35356 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#41250 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#8543 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#17600 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#6927 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#25320 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60724 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#62479 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33393 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.3#41049 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35539 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35539 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58484 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58484 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55621 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55621 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40349 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40349 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48651 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48651 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41439 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41439 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54158 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54158 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44252 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44252 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33458 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33458 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34042 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34042 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33106 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33106 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40186 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40186 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37421 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37421 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39866 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39866 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41279 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41279 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39996 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39996 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44342 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44342 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42480 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42480 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43661 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43661 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53873 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53873 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45347 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45347 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42631 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42631 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60731 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60731 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58949 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58949 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52292 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52292 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51650 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51650 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60110 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60110 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34011 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34011 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35865 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35865 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37597 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37597 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56795 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56795 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#32983 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#32983 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40955 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40955 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44567 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44567 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51397 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51397 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52645 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52645 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:12::d0d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fd::1#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2f::f#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:1::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:dc3::35#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:200::b#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:9f::42#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2::c#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2d::d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:a8::e#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fe::53#53
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+client @0x7f57d00fb970 192.168.20.2#54630 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54630 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38210 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38210 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35496 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35496 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44957 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44957 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33680 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33680 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59958 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59958 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49944 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49944 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42842 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42842 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49577 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49577 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43184 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43184 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50173 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50173 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56834 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56834 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+client @0x7f57d00fb970 192.168.20.2#39642 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39642 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51924 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51924 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35397 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35397 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39204 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39204 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49310 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49310 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53074 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53074 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#32906 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#32906 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42522 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42522 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34414 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34414 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45198 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45198 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57161 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57161 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51181 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51181 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33741 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33741 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56523 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56523 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40410 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40410 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52644 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52644 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41466 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41466 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34243 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34243 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60134 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60134 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48773 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48773 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33231 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33231 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47653 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47653 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43745 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43745 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48009 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48009 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45194 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45194 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50147 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50147 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56997 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56997 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35229 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35229 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50599 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50599 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57608 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57608 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45818 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45818 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59624 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59624 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56094 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56094 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56882 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56882 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40255 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40255 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57589 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57589 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45208 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45208 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41498 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41498 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55443 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55443 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39051 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39051 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43431 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43431 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59777 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59777 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51884 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51884 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41855 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41855 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59705 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59705 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44330 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44330 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50625 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50625 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42283 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42283 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+client @0x7f57d00fb970 192.168.20.2#33012 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33012 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35934 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35934 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43155 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43155 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46361 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46361 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44395 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44395 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39896 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39896 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56911 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56911 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43310 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43310 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38017 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38017 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40441 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40441 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54531 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54531 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56786 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56786 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#62989 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#15065 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#7867 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#22696 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51039 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#46939 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#63275 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#23963 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#10527 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#9674 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#63592 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#62690 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44710 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#10630 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59861 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40769 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#52783 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#19832 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#65220 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#15183 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#30878 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#12922 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#54399 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38949 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#7870 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#19284 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52480 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#29235 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#17793 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#7440 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44956 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44956 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42505 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42505 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42450 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42450 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39165 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39165 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34711 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34711 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49635 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49635 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35880 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35880 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37978 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37978 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35283 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35283 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46842 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46842 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59584 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59584 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46735 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46735 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35742 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35742 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56833 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56833 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49557 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49557 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33320 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33320 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50470 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50470 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41705 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41705 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47846 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47846 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44003 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44003 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40560 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40560 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37439 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37439 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34304 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34304 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51873 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51873 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46249 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46249 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40466 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40466 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41554 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41554 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42103 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42103 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44143 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44143 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53524 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53524 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48346 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48346 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42920 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42920 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43126 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43126 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58487 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58487 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60501 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60501 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35771 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35771 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fe::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2::c#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:12::d0d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fd::1#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:1::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:9f::42#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:dc3::35#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2d::d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:a8::e#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2f::f#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:200::b#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:c27::2:30#53
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+client @0x7f57d00fb970 192.168.20.2#48181 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48181 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36494 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36494 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54870 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54870 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53183 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53183 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35600 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35600 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34939 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34939 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57706 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57706 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53738 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53738 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43692 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43692 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38193 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38193 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44481 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44481 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42345 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42345 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+client @0x7f57d00fb970 192.168.20.2#45875 (github.com): query (cache) 'github.com/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45875 (github.com): query (cache) 'github.com/AAAA/IN' denied
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:9f::42#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fe::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:12::d0d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:200::b#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:1::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2::c#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:dc3::35#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fd::1#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2d::d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:a8::e#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2f::f#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:ba3e::2:30#53
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+client @0x7f57d00fb970 192.168.20.2#23172 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#12960 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#31177 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#64214 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#24904 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.3#8708 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.3#58622 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.3#17198 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.3#4195 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.3#36377 (.): query (cache) './DNSKEY/IN' denied
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:1::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fd::1#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:a8::e#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2d::d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fe::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:200::b#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:12::d0d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:dc3::35#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:9f::42#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2::c#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+client @0x7f57d00fb970 192.168.20.2#38861 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38861 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52996 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52996 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55441 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55441 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59873 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59873 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56128 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56128 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42495 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42495 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54150 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54150 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36084 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36084 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36195 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36195 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51975 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51975 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53205 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53205 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60721 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60721 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51733 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43575 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#53507 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#16540 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#29794 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45494 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60946 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#14293 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#23143 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44707 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#64608 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#25660 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#12446 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#25395 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49886 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#56712 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56054 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#32346 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47813 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#31510 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#6270 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#23863 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#63582 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53959 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#11368 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58727 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#18756 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#64009 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#7519 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#29628 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#64350 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34451 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#19141 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#18213 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#18001 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#27629 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48869 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48869 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47422 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47422 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40494 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40494 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59354 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59354 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45211 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45211 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40293 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40293 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53406 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53406 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37228 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37228 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57129 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57129 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35077 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35077 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40193 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40193 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43885 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43885 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43346 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43346 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37588 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37588 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54128 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54128 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48536 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48536 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42639 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42639 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36599 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36599 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42674 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42674 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43324 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43324 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57080 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57080 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34920 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34920 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34362 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34362 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51894 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51894 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48515 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48515 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53261 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53261 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42395 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42395 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58071 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#58071 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57062 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57062 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49268 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49268 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38192 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38192 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54914 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54914 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45718 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45718 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36818 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36818 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48507 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48507 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59580 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59580 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2d::d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:200::b#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:a8::e#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2f::f#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:dc3::35#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fd::1#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:9f::42#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2::c#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:1::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fe::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:12::d0d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:c27::2:30#53
+host unreachable resolving '_ta-4f66/NULL/IN': 199.7.91.13#53
+host unreachable resolving '_ta-4f66/NULL/IN': 199.9.14.201#53
+host unreachable resolving '_ta-4f66/NULL/IN': 192.203.230.10#53
+host unreachable resolving '_ta-4f66/NULL/IN': 192.5.5.241#53
+host unreachable resolving '_ta-4f66/NULL/IN': 202.12.27.33#53
+host unreachable resolving '_ta-4f66/NULL/IN': 193.0.14.129#53
+host unreachable resolving '_ta-4f66/NULL/IN': 198.97.190.53#53
+host unreachable resolving '_ta-4f66/NULL/IN': 198.41.0.4#53
+host unreachable resolving '_ta-4f66/NULL/IN': 192.58.128.30#53
+host unreachable resolving '_ta-4f66/NULL/IN': 199.7.83.42#53
+host unreachable resolving '_ta-4f66/NULL/IN': 192.112.36.4#53
+host unreachable resolving '_ta-4f66/NULL/IN': 192.36.148.17#53
+host unreachable resolving '_ta-4f66/NULL/IN': 192.33.4.12#53
+client @0x7f57d00fb970 192.168.20.2#59579 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59579 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55035 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55035 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37544 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37544 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33841 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33841 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56948 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56948 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53350 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53350 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41738 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41738 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45481 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45481 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47937 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47937 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52291 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52291 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37767 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37767 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34675 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34675 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57280 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57280 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57937 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57937 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45886 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45886 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60314 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60314 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34218 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34218 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37785 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37785 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59112 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59112 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48752 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48752 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59399 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59399 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42047 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42047 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35377 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35377 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49444 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49444 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57575 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57575 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33033 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33033 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54716 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54716 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33474 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33474 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59482 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59482 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50867 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50867 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51831 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51831 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40272 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40272 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59491 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59491 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45944 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45944 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44626 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44626 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38269 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38269 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51677 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51677 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45974 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#45974 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56915 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56915 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46693 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46693 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51326 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51326 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46984 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#46984 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35572 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35572 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47174 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47174 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50605 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50605 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54874 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54874 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35369 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35369 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33881 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33881 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+client @0x7f57d00fb970 192.168.20.2#24657 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42691 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40224 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#18314 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53762 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#46479 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42911 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#31958 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#7834 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#6013 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40521 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#58244 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#61441 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44547 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#14276 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#31627 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#15249 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#7479 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#20096 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#11388 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41465 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#26286 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#6571 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#45863 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#7981 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#56815 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56847 (.): query (cache) './DNSKEY/IN' denied
+trust-anchor-telemetry '_ta-4a5c-4f66/IN' from 192.168.20.2
+client @0x7f57d00fb970 192.168.20.2#14824 (_ta-4a5c-4f66): query (cache) '_ta-4a5c-4f66/NULL/IN' denied
+client @0x7f57d00fb970 192.168.20.2#61726 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#16792 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#62543 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60903 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#27528 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59497 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59497 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54440 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54440 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56810 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56810 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53917 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53917 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36004 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36004 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48073 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48073 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56153 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56153 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51418 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51418 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49644 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49644 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51445 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51445 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38642 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38642 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38931 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38931 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40717 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40717 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50348 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50348 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50212 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50212 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50553 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50553 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60985 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60985 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59531 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59531 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37539 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37539 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47716 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47716 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40604 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40604 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34247 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34247 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39960 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39960 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60420 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60420 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47094 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47094 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49885 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49885 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38010 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#38010 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37302 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37302 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40857 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40857 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48261 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48261 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50017 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50017 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44994 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44994 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55751 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55751 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57557 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57557 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56072 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56072 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39593 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39593 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40386 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40386 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50855 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50855 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47894 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47894 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35570 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#35570 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41130 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#41130 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37129 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#37129 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53849 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#53849 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40729 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40729 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56673 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#56673 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49166 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49166 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48098 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#48098 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44393 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/A/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44393 (mirrorlist.centos.org): query (cache) 'mirrorlist.centos.org/AAAA/IN' denied
+client @0x7f57d00fb970 192.168.20.2#39978 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#52558 (0.0.168.192.in-addr.arpa): query (cache) '0.0.168.192.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#32981 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43046 (0.0.168.192.in-addr.arpa): query (cache) '0.0.168.192.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47135 (0.0.168.192.in-addr.arpa): query (cache) '0.0.168.192.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#54800 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#36635 (0.0.168.192.in-addr.arpa): query (cache) '0.0.168.192.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#40817 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#32814 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#51659 (0.0.168.192.in-addr.arpa): query (cache) '0.0.168.192.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50442 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#42493 (0.0.102.10.in-addr.arpa): query (cache) '0.0.102.10.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#57083 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44161 (0.0.168.192.in-addr.arpa): query (cache) '0.0.168.192.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#43527 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#60694 (0.0.168.192.in-addr.arpa): query (cache) '0.0.168.192.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#55937 (1.20.16.172.in-addr.arpa): query (cache) '1.20.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#49901 (0.0.168.192.in-addr.arpa): query (cache) '0.0.168.192.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#34065 (0.0.102.10.in-addr.arpa): query (cache) '0.0.102.10.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#33080 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#47515 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#59417 (1.0.16.172.in-addr.arpa): query (cache) '1.0.16.172.in-addr.arpa/PTR/IN' denied
+client @0x7f57d00fb970 192.168.20.2#44738 (0.0.102.10.in-addr.arpa): query (cache) '0.0.102.10.in-addr.arpa/PTR/IN' denied
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fe::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:503:c27::2:30#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:a8::e#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fd::1#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2f::f#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:1::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2d::d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:12::d0d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:200::b#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:dc3::35#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:9f::42#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2::c#53
+no longer listening on 172.16.20.3#53
+listening on IPv4 interface ens192, 172.16.20.3#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+client @0x7f57d00fb970 192.168.20.2#3367 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#6383 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.2#50456 (.): query (cache) './DNSKEY/IN' denied
+client @0x7f57d00fb970 192.168.20.3#59299 (.): query (cache) './DNSKEY/IN' denied
+received control channel command 'reload'
+loading configuration from '/etc/named.conf'
+unable to open '/etc/bind.keys'; using built-in keys instead
+looking for GeoIP2 databases in '/usr/share/GeoIP'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-Country.mmdb'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-City.mmdb'
+using default UDP/IPv4 port range: [32768, 60999]
+using default UDP/IPv6 port range: [32768, 60999]
+sizing zone task pool based on 7 zones
+none:104: 'max-cache-size 90%' - setting to 1644MB (out of 1826MB)
+none:104: 'max-cache-size 90%' - setting to 1644MB (out of 1826MB)
+configuring command channel from '/etc/rndc.key'
+configuring command channel from '/etc/rndc.key'
