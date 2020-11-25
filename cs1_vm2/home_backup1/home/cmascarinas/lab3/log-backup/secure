@@ -1,0 +1,803 @@
+Oct  4 10:40:32 vm2 sshd[3149]: Accepted publickey for instructor from 172.16.0.1 port 39574 ssh2: RSA SHA256:QMy96Bymjtqkyayz7Av77aE23PqWehCLYM9/0n74kPY
+Oct  4 10:40:32 vm2 systemd[3153]: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Oct  4 10:40:32 vm2 sshd[3149]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Oct  4 10:40:32 vm2 sshd[3164]: Received disconnect from 172.16.0.1 port 39574:11: disconnected by user
+Oct  4 10:40:32 vm2 sshd[3164]: Disconnected from user instructor 172.16.0.1 port 39574
+Oct  4 10:40:32 vm2 sshd[3149]: pam_unix(sshd:session): session closed for user instructor
+Oct  4 10:40:32 vm2 systemd[3158]: pam_unix(systemd-user:session): session closed for user instructor
+Oct  4 15:32:48 vm2 sudo[3354]: student : TTY=tty1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L
+Oct  4 15:32:48 vm2 sudo[3354]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  4 15:32:48 vm2 sudo[3354]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  4 15:32:48 vm2 sudo[3354]: pam_unix(sudo:session): session closed for user root
+Oct  4 15:32:58 vm2 sudo[3359]: student : TTY=tty1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n
+Oct  4 15:32:58 vm2 sudo[3359]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  4 15:32:58 vm2 sudo[3359]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  4 15:32:58 vm2 sudo[3359]: pam_unix(sudo:session): session closed for user root
+Oct  4 15:33:07 vm2 sudo[3362]: student : TTY=tty1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L
+Oct  4 15:33:07 vm2 sudo[3362]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  4 15:33:07 vm2 sudo[3362]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  4 15:33:07 vm2 sudo[3362]: pam_unix(sudo:session): session closed for user root
+Oct  4 15:33:08 vm2 sudo[3365]: student : TTY=tty1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n
+Oct  4 15:33:08 vm2 sudo[3365]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  4 15:33:08 vm2 sudo[3365]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  4 15:33:08 vm2 sudo[3365]: pam_unix(sudo:session): session closed for user root
+Oct  4 16:59:03 vm2 sudo[3416]: student : TTY=tty1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/ip r del 0.0.0.0/0 via 192.168.20.1
+Oct  4 16:59:03 vm2 sudo[3416]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  4 16:59:03 vm2 sudo[3416]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  4 16:59:03 vm2 sudo[3416]: pam_unix(sudo:session): session closed for user root
+Oct  4 16:59:15 vm2 sshd[3422]: Accepted password for student from 10.102.108.15 port 35610 ssh2
+Oct  4 16:59:15 vm2 sshd[3422]: pam_unix(sshd:session): session opened for user student by (uid=0)
+Oct  4 16:59:17 vm2 sshd[3426]: Received disconnect from 10.102.108.15 port 35610:11: disconnected by user
+Oct  4 16:59:17 vm2 sshd[3426]: Disconnected from user student 10.102.108.15 port 35610
+Oct  4 16:59:17 vm2 sshd[3422]: pam_unix(sshd:session): session closed for user student
+Oct  4 16:59:32 vm2 sshd[3454]: Accepted password for student from 10.102.108.15 port 35614 ssh2
+Oct  4 16:59:32 vm2 sshd[3454]: pam_unix(sshd:session): session opened for user student by (uid=0)
+Oct  4 16:59:51 vm2 sshd[3458]: Received disconnect from 10.102.108.15 port 35614:11: disconnected by user
+Oct  4 16:59:51 vm2 sshd[3458]: Disconnected from user student 10.102.108.15 port 35614
+Oct  4 16:59:51 vm2 sshd[3454]: pam_unix(sshd:session): session closed for user student
+Oct  7 14:07:25 vm2 sshd[5369]: Accepted publickey for instructor from 172.16.0.1 port 40390 ssh2: RSA SHA256:QMy96Bymjtqkyayz7Av77aE23PqWehCLYM9/0n74kPY
+Oct  7 14:07:25 vm2 systemd[5373]: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Oct  7 14:07:25 vm2 sshd[5369]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Oct  7 14:07:25 vm2 sshd[5384]: Received disconnect from 172.16.0.1 port 40390:11: disconnected by user
+Oct  7 14:07:25 vm2 sshd[5384]: Disconnected from user instructor 172.16.0.1 port 40390
+Oct  7 14:07:25 vm2 sshd[5369]: pam_unix(sshd:session): session closed for user instructor
+Oct  7 14:07:25 vm2 systemd[5378]: pam_unix(systemd-user:session): session closed for user instructor
+Oct  7 17:40:07 vm2 sshd[5495]: Accepted publickey for instructor from 172.16.0.1 port 40662 ssh2: RSA SHA256:QMy96Bymjtqkyayz7Av77aE23PqWehCLYM9/0n74kPY
+Oct  7 17:40:07 vm2 systemd[5499]: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Oct  7 17:40:07 vm2 sshd[5495]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Oct  7 17:40:07 vm2 sshd[5510]: Received disconnect from 172.16.0.1 port 40662:11: disconnected by user
+Oct  7 17:40:07 vm2 sshd[5510]: Disconnected from user instructor 172.16.0.1 port 40662
+Oct  7 17:40:07 vm2 sshd[5495]: pam_unix(sshd:session): session closed for user instructor
+Oct  7 17:40:07 vm2 systemd[5504]: pam_unix(systemd-user:session): session closed for user instructor
+Oct  7 17:41:33 vm2 sshd[5537]: Accepted publickey for instructor from 172.16.0.1 port 40902 ssh2: RSA SHA256:QMy96Bymjtqkyayz7Av77aE23PqWehCLYM9/0n74kPY
+Oct  7 17:41:33 vm2 systemd[5541]: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Oct  7 17:41:33 vm2 sshd[5537]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Oct  7 17:41:33 vm2 sshd[5551]: Received disconnect from 172.16.0.1 port 40902:11: disconnected by user
+Oct  7 17:41:33 vm2 sshd[5551]: Disconnected from user instructor 172.16.0.1 port 40902
+Oct  7 17:41:33 vm2 sshd[5537]: pam_unix(sshd:session): session closed for user instructor
+Oct  7 17:41:33 vm2 systemd[5545]: pam_unix(systemd-user:session): session closed for user instructor
+Oct  7 18:51:27 vm2 sshd[5608]: Accepted publickey for instructor from 172.16.0.1 port 41142 ssh2: RSA SHA256:QMy96Bymjtqkyayz7Av77aE23PqWehCLYM9/0n74kPY
+Oct  7 18:51:27 vm2 systemd[5612]: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Oct  7 18:51:27 vm2 sshd[5608]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Oct  7 18:51:27 vm2 sshd[5623]: Received disconnect from 172.16.0.1 port 41142:11: disconnected by user
+Oct  7 18:51:27 vm2 sshd[5623]: Disconnected from user instructor 172.16.0.1 port 41142
+Oct  7 18:51:27 vm2 sshd[5608]: pam_unix(sshd:session): session closed for user instructor
+Oct  7 18:51:27 vm2 systemd[5617]: pam_unix(systemd-user:session): session closed for user instructor
+Oct  8 17:27:47 vm2 sudo[6262]: student : TTY=tty1 ; PWD=/home/student ; USER=root ; COMMAND=/bin/vim /etc/hostname
+Oct  8 17:27:47 vm2 sudo[6262]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:27:47 vm2 sudo[6262]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:28:18 vm2 sudo[6262]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:28:40 clarize-vm2 polkitd[981]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  8 17:28:40 clarize-vm2 polkitd[981]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  8 17:28:40 clarize-vm2 polkitd[981]: Finished loading, compiling and executing 2 rules
+Oct  8 17:28:40 clarize-vm2 polkitd[981]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  8 17:28:45 clarize-vm2 sshd[1010]: Server listening on 0.0.0.0 port 22.
+Oct  8 17:28:45 clarize-vm2 sshd[1010]: Server listening on :: port 22.
+Oct  8 17:28:59 clarize-vm2 login[1079]: pam_unix(login:auth): check pass; user unknown
+Oct  8 17:28:59 clarize-vm2 login[1079]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 euid=0 tty=tty1 ruser= rhost=
+Oct  8 17:29:02 clarize-vm2 login[1079]: FAILED LOGIN 1 FROM tty1 FOR student , Authentication failure
+Oct  8 17:29:10 clarize-vm2 unix_chkpwd[1499]: password check failed for user (student)
+Oct  8 17:29:10 clarize-vm2 login[1079]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 euid=0 tty=tty1 ruser= rhost=  user=student
+Oct  8 17:29:11 clarize-vm2 login[1079]: FAILED LOGIN 2 FROM tty1 FOR student, Authentication failure
+Oct  8 17:29:34 clarize-vm2 systemd[1507]: pam_unix(systemd-user:session): session opened for user student by (uid=0)
+Oct  8 17:29:34 clarize-vm2 login[1079]: pam_unix(login:session): session opened for user student by LOGIN(uid=0)
+Oct  8 17:29:34 clarize-vm2 login[1079]: LOGIN ON tty1 BY student
+Oct  8 17:32:03 clarize-vm2 unix_chkpwd[1550]: password check failed for user (student)
+Oct  8 17:32:03 clarize-vm2 sudo[1548]: pam_unix(sudo:auth): authentication failure; logname=student uid=1000 euid=0 tty=/dev/tty1 ruser=student rhost=  user=student
+Oct  8 17:32:38 clarize-vm2 polkitd[964]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  8 17:32:38 clarize-vm2 polkitd[964]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  8 17:32:38 clarize-vm2 polkitd[964]: Finished loading, compiling and executing 2 rules
+Oct  8 17:32:38 clarize-vm2 polkitd[964]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  8 17:32:43 clarize-vm2 sshd[998]: Server listening on 0.0.0.0 port 22.
+Oct  8 17:32:43 clarize-vm2 sshd[998]: Server listening on :: port 22.
+Oct  8 17:32:59 clarize-vm2 systemd[1521]: pam_unix(systemd-user:session): session opened for user student by (uid=0)
+Oct  8 17:32:59 clarize-vm2 login[1099]: pam_unix(login:session): session opened for user student by LOGIN(uid=0)
+Oct  8 17:32:59 clarize-vm2 login[1099]: LOGIN ON tty1 BY student
+Oct  8 17:33:17 clarize-vm2 sudo[1564]: student : TTY=tty1 ; PWD=/home/student ; USER=root ; COMMAND=./vm_lab2.sh
+Oct  8 17:33:17 clarize-vm2 sudo[1564]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:33:17 clarize-vm2 sudo[1564]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:33:17 clarize-vm2 sudo[1564]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:36:03 clarize-vm2 sudo[1604]: student : TTY=tty1 ; PWD=/home/student ; USER=root ; COMMAND=/bin/dnf -y update
+Oct  8 17:36:03 clarize-vm2 sudo[1604]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:36:03 clarize-vm2 sudo[1604]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:36:17 clarize-vm2 useradd[1663]: failed adding user 'dbus', exit code: 9
+Oct  8 17:38:04 clarize-vm2 sshd[19503]: Accepted password for student from 10.102.108.13 port 54844 ssh2
+Oct  8 17:38:04 clarize-vm2 sshd[19503]: pam_unix(sshd:session): session opened for user student by (uid=0)
+Oct  8 17:38:51 clarize-vm2 sudo[1604]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:41:44 clarize-vm2 sudo[42426]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/dnf install httpd httpd-manual
+Oct  8 17:41:44 clarize-vm2 sudo[42426]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:41:44 clarize-vm2 sudo[42426]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:42:37 clarize-vm2 sudo[42426]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:42:45 clarize-vm2 sudo[42434]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/dnf install httpd httpd-manual
+Oct  8 17:42:45 clarize-vm2 sudo[42434]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:42:45 clarize-vm2 sudo[42434]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:42:51 clarize-vm2 groupadd[42451]: group added to /etc/group: name=apache, GID=48
+Oct  8 17:42:51 clarize-vm2 groupadd[42451]: group added to /etc/gshadow: name=apache
+Oct  8 17:42:52 clarize-vm2 groupadd[42451]: new group: name=apache, GID=48
+Oct  8 17:42:52 clarize-vm2 useradd[42458]: new user: name=apache, UID=48, GID=48, home=/usr/share/httpd, shell=/sbin/nologin
+Oct  8 17:42:54 clarize-vm2 sudo[42434]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:44:30 clarize-vm2 sudo[42894]: student : TTY=pts/0 ; PWD=/etc/httpd/conf.d ; USER=root ; COMMAND=/bin/cp userdir.conf /home/cmascarinas/lab3/httpd
+Oct  8 17:44:30 clarize-vm2 sudo[42894]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:44:30 clarize-vm2 sudo[42894]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:44:30 clarize-vm2 sudo[42894]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:44:39 clarize-vm2 su[42897]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:44:39 clarize-vm2 su[42897]: pam_unix(su:session): session opened for user cmascarinas by student(uid=1000)
+Oct  8 17:45:18 clarize-vm2 su[42927]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:45:18 clarize-vm2 su[42927]: pam_unix(su:session): session opened for user student by student(uid=1002)
+Oct  8 17:46:16 clarize-vm2 sudo[42955]: student : TTY=pts/0 ; PWD=/etc/httpd/conf.d ; USER=root ; COMMAND=/bin/cp userdir.conf /home/cmascarinas/lab3/httpd
+Oct  8 17:46:16 clarize-vm2 sudo[42955]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:46:16 clarize-vm2 sudo[42955]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:46:16 clarize-vm2 sudo[42955]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:46:28 clarize-vm2 su[42958]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:46:28 clarize-vm2 su[42958]: pam_unix(su:session): session opened for user cmascarinas by student(uid=1000)
+Oct  8 17:46:47 clarize-vm2 su[42985]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:46:47 clarize-vm2 su[42985]: pam_unix(su:session): session opened for user student by student(uid=1002)
+Oct  8 17:48:17 clarize-vm2 sudo[43014]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/vim /etc/httpd/conf.d/userdir.conf
+Oct  8 17:48:17 clarize-vm2 sudo[43014]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:48:17 clarize-vm2 sudo[43014]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:48:32 clarize-vm2 sudo[43014]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:49:31 clarize-vm2 sudo[43018]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/diff /etc/httpd/conf.d/userdir.conf /home/cmacarinas/lab3/httpd/userdir.conf
+Oct  8 17:49:31 clarize-vm2 sudo[43018]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:49:31 clarize-vm2 sudo[43018]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:49:31 clarize-vm2 sudo[43018]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:49:56 clarize-vm2 sudo[43021]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /home/cmacarinas/lab3/httpd/userdir.conf
+Oct  8 17:49:56 clarize-vm2 sudo[43021]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:49:56 clarize-vm2 sudo[43021]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:49:56 clarize-vm2 sudo[43021]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:50:43 clarize-vm2 su[43025]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:50:43 clarize-vm2 su[43025]: pam_unix(su:session): session opened for user cmascarinas by student(uid=1000)
+Oct  8 17:52:23 clarize-vm2 sudo[43050]: cmascarinas : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/diff /etc/httpd/conf.d/userdir.conf /home/cmascarinas/httpd/userdir.conf
+Oct  8 17:52:39 clarize-vm2 unix_chkpwd[43056]: password check failed for user (root)
+Oct  8 17:52:39 clarize-vm2 su[43054]: pam_unix(su:auth): authentication failure; logname=student uid=1002 euid=0 tty=pts/0 ruser=student rhost=  user=root
+Oct  8 17:52:47 clarize-vm2 su[43057]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:52:47 clarize-vm2 su[43057]: pam_unix(su:session): session opened for user student by student(uid=1002)
+Oct  8 17:52:57 clarize-vm2 su[43082]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:52:57 clarize-vm2 su[43082]: pam_unix(su:session): session opened for user cmascarinas by student(uid=1000)
+Oct  8 17:53:10 clarize-vm2 su[43107]: pam_unix(su:auth): authentication failure; logname=student uid=1002 euid=0 tty=pts/0 ruser=student rhost=  user=student
+Oct  8 17:53:23 clarize-vm2 su[43111]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:53:23 clarize-vm2 su[43111]: pam_unix(su:session): session opened for user student by student(uid=1002)
+Oct  8 17:53:42 clarize-vm2 sudo[43136]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cd /home/cmascarinas
+Oct  8 17:53:42 clarize-vm2 sudo[43136]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:53:42 clarize-vm2 sudo[43136]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:53:42 clarize-vm2 sudo[43136]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:54:07 clarize-vm2 sudo[43141]: student : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/bin/cd cmascarinas/
+Oct  8 17:54:07 clarize-vm2 sudo[43141]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:54:07 clarize-vm2 sudo[43141]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:54:07 clarize-vm2 sudo[43141]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:54:30 clarize-vm2 sudo[43145]: student : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/bin/cd cmascarinas/
+Oct  8 17:54:30 clarize-vm2 sudo[43145]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:54:30 clarize-vm2 sudo[43145]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:54:30 clarize-vm2 sudo[43145]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:56:17 clarize-vm2 sudo[43151]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/diff /etc/httpd/conf.d/userdir.conf /home/cmascarinas/lab3/httpd/user_dir.conf
+Oct  8 17:56:17 clarize-vm2 sudo[43151]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:56:17 clarize-vm2 sudo[43151]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:56:17 clarize-vm2 sudo[43151]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:56:27 clarize-vm2 sudo[43154]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/diff /etc/httpd/conf.d/userdir.conf /home/cmascarinas/lab3/httpd/userdir.conf
+Oct  8 17:56:27 clarize-vm2 sudo[43154]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:56:27 clarize-vm2 sudo[43154]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:56:27 clarize-vm2 sudo[43154]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:56:41 clarize-vm2 sudo[43157]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/diff /etc/httpd/conf.d/userdir.conf /home/cmascarinas/lab3/httpd/userdir.conf
+Oct  8 17:56:41 clarize-vm2 sudo[43157]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:56:41 clarize-vm2 sudo[43157]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:56:41 clarize-vm2 sudo[43157]: pam_unix(sudo:session): session closed for user root
+Oct  8 17:57:57 clarize-vm2 sudo[43161]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n
+Oct  8 17:57:57 clarize-vm2 sudo[43161]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 17:57:57 clarize-vm2 sudo[43161]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 17:57:57 clarize-vm2 sudo[43161]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:01:18 clarize-vm2 sudo[43177]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/semodule -l
+Oct  8 18:01:18 clarize-vm2 sudo[43177]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:01:18 clarize-vm2 sudo[43177]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:01:18 clarize-vm2 sudo[43177]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:01:54 clarize-vm2 sudo[43180]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/semodule -l
+Oct  8 18:01:55 clarize-vm2 sudo[43180]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:01:55 clarize-vm2 sudo[43180]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:01:55 clarize-vm2 sudo[43180]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:03:14 clarize-vm2 sudo[43186]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/dnf install wget
+Oct  8 18:03:14 clarize-vm2 sudo[43186]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:03:14 clarize-vm2 sudo[43186]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:03:18 clarize-vm2 sudo[43186]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:03:48 clarize-vm2 sudo[43492]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/dnf install policycoreutils-python-utils
+Oct  8 18:03:48 clarize-vm2 sudo[43492]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:03:48 clarize-vm2 sudo[43492]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:03:53 clarize-vm2 sudo[43492]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:03:58 clarize-vm2 sudo[43979]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/semanage port -l
+Oct  8 18:03:58 clarize-vm2 sudo[43979]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:03:58 clarize-vm2 sudo[43979]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:03:58 clarize-vm2 sudo[43979]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:04:13 clarize-vm2 sudo[43982]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/semanage port -l
+Oct  8 18:04:13 clarize-vm2 sudo[43982]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:04:13 clarize-vm2 sudo[43982]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:04:14 clarize-vm2 sudo[43982]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:04:29 clarize-vm2 sudo[43986]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/semanage port -l
+Oct  8 18:04:29 clarize-vm2 sudo[43986]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:04:29 clarize-vm2 sudo[43986]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:04:30 clarize-vm2 sudo[43986]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:10:42 clarize-vm2 sudo[43999]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L
+Oct  8 18:10:42 clarize-vm2 sudo[43999]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:10:42 clarize-vm2 sudo[43999]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:10:42 clarize-vm2 sudo[43999]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:10:51 clarize-vm2 sudo[44004]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L --line-numbers
+Oct  8 18:10:51 clarize-vm2 sudo[44004]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:10:51 clarize-vm2 sudo[44004]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:10:51 clarize-vm2 sudo[44004]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:11:54 clarize-vm2 sudo[44007]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens224 --dport 80 -j ACCEPT
+Oct  8 18:11:54 clarize-vm2 sudo[44007]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:11:54 clarize-vm2 sudo[44007]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:11:54 clarize-vm2 sudo[44007]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:13:15 clarize-vm2 sudo[44010]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens224 --dport 80 -m state --state NEW,ESTABLISHED -j ACCEPT
+Oct  8 18:13:15 clarize-vm2 sudo[44010]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:13:15 clarize-vm2 sudo[44010]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:13:15 clarize-vm2 sudo[44010]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:13:32 clarize-vm2 sudo[44013]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens224 -p tcp --dport 80 -j ACCEPT
+Oct  8 18:13:32 clarize-vm2 sudo[44013]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:13:32 clarize-vm2 sudo[44013]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:13:32 clarize-vm2 sudo[44013]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:13:40 clarize-vm2 sudo[44016]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L --line-numbers
+Oct  8 18:13:40 clarize-vm2 sudo[44016]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:13:40 clarize-vm2 sudo[44016]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:13:40 clarize-vm2 sudo[44016]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:13:56 clarize-vm2 sudo[44019]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 18:13:56 clarize-vm2 sudo[44019]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:13:56 clarize-vm2 sudo[44019]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:13:56 clarize-vm2 sudo[44019]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:14:16 clarize-vm2 sudo[44022]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens192 -p tcp --dport 80 -j ACCEPT
+Oct  8 18:14:16 clarize-vm2 sudo[44022]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:14:16 clarize-vm2 sudo[44022]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:14:16 clarize-vm2 sudo[44022]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:14:19 clarize-vm2 sudo[44025]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 18:14:19 clarize-vm2 sudo[44025]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:14:19 clarize-vm2 sudo[44025]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:14:19 clarize-vm2 sudo[44025]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:15:38 clarize-vm2 polkitd[964]: Registered Authentication Agent for unix-process:44031:258895 (system bus name :1.115 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Oct  8 18:15:49 clarize-vm2 polkitd[964]: Operator of unix-process:44031:258895 successfully authenticated as unix-user:student to gain ONE-SHOT authorization for action org.freedesktop.systemd1.manage-units for system-bus-name::1.116 [systemctl start httpd] (owned by unix-user:student)
+Oct  8 18:15:49 clarize-vm2 polkitd[964]: Unregistered Authentication Agent for unix-process:44031:258895 (system bus name :1.115, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Oct  8 18:16:00 clarize-vm2 sudo[44267]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/systemctl enable httpd
+Oct  8 18:16:00 clarize-vm2 sudo[44267]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:16:00 clarize-vm2 sudo[44267]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:16:00 clarize-vm2 sudo[44267]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:17:32 clarize-vm2 sudo[44290]: student : TTY=tty1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L
+Oct  8 18:17:32 clarize-vm2 sudo[44290]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:17:32 clarize-vm2 sudo[44290]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:17:32 clarize-vm2 sudo[44290]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:23:08 clarize-vm2 sudo[44307]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/setsebool httpd_enable_homedirs on
+Oct  8 18:23:08 clarize-vm2 sudo[44307]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:23:08 clarize-vm2 sudo[44307]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:23:08 clarize-vm2 sudo[44307]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:23:27 clarize-vm2 sudo[44315]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/setsebool -P httpd_enable_homedirs on
+Oct  8 18:23:27 clarize-vm2 sudo[44315]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:23:27 clarize-vm2 sudo[44315]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:23:30 clarize-vm2 sudo[44315]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:25:36 clarize-vm2 sudo[44325]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/grep AVC /var/log/audit/audit.log
+Oct  8 18:25:36 clarize-vm2 sudo[44325]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:25:36 clarize-vm2 sudo[44325]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:25:36 clarize-vm2 sudo[44325]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:28:38 clarize-vm2 sudo[44329]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/ausearch -m avc -ts recent
+Oct  8 18:28:38 clarize-vm2 sudo[44329]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:28:38 clarize-vm2 sudo[44329]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:28:38 clarize-vm2 sudo[44329]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:29:03 clarize-vm2 sudo[44333]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/grep AVC /var/log/audit/audit.log
+Oct  8 18:29:03 clarize-vm2 sudo[44333]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:29:03 clarize-vm2 sudo[44333]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:29:03 clarize-vm2 sudo[44333]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:29:33 clarize-vm2 sudo[44336]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/ausearch -m avc -ts recent
+Oct  8 18:29:33 clarize-vm2 sudo[44336]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:29:33 clarize-vm2 sudo[44336]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:29:33 clarize-vm2 sudo[44336]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:33:38 clarize-vm2 sudo[44355]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /proc/sys/net/ipv4/tcp_syncookies
+Oct  8 18:33:38 clarize-vm2 sudo[44355]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:33:38 clarize-vm2 sudo[44355]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:33:38 clarize-vm2 sudo[44355]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:39:29 clarize-vm2 unix_chkpwd[44365]: password check failed for user (student)
+Oct  8 18:39:29 clarize-vm2 sudo[44363]: pam_unix(sudo:auth): authentication failure; logname=student uid=1000 euid=0 tty=/dev/pts/0 ruser=student rhost=  user=student
+Oct  8 18:39:38 clarize-vm2 unix_chkpwd[44367]: password check failed for user (student)
+Oct  8 18:39:47 clarize-vm2 sudo[44363]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -N LOGGING
+Oct  8 18:39:47 clarize-vm2 sudo[44363]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:39:47 clarize-vm2 sudo[44363]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:39:47 clarize-vm2 sudo[44363]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:40:04 clarize-vm2 sudo[44372]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L
+Oct  8 18:40:04 clarize-vm2 sudo[44372]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:40:04 clarize-vm2 sudo[44372]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:40:04 clarize-vm2 sudo[44372]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:53:54 clarize-vm2 sudo[44380]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/sysctl status httpd
+Oct  8 18:53:54 clarize-vm2 sudo[44380]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:53:54 clarize-vm2 sudo[44380]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:53:54 clarize-vm2 sudo[44380]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:54:05 clarize-vm2 sudo[44385]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/sysctl status apache
+Oct  8 18:54:05 clarize-vm2 sudo[44385]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:54:06 clarize-vm2 sudo[44385]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:54:06 clarize-vm2 sudo[44385]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:54:25 clarize-vm2 sudo[44389]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/systemctl status https
+Oct  8 18:54:25 clarize-vm2 sudo[44389]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:54:25 clarize-vm2 sudo[44389]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:54:25 clarize-vm2 sudo[44389]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:54:27 clarize-vm2 sudo[44393]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/systemctl status httpd
+Oct  8 18:54:27 clarize-vm2 sudo[44393]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:54:27 clarize-vm2 sudo[44393]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:54:27 clarize-vm2 sudo[44393]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:55:47 clarize-vm2 sudo[44400]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/systemctl restart NetworkManager
+Oct  8 18:55:47 clarize-vm2 sudo[44400]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:55:47 clarize-vm2 sudo[44400]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:55:48 clarize-vm2 sudo[44400]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:56:18 clarize-vm2 sudo[44428]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 18:56:18 clarize-vm2 sudo[44428]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:56:18 clarize-vm2 sudo[44428]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:56:18 clarize-vm2 sudo[44428]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:58:15 clarize-vm2 sudo[44434]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/systemctl status firewalld
+Oct  8 18:58:15 clarize-vm2 sudo[44434]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:58:15 clarize-vm2 sudo[44434]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:58:15 clarize-vm2 sudo[44434]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:58:45 clarize-vm2 sudo[44438]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 18:58:45 clarize-vm2 sudo[44438]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:58:45 clarize-vm2 sudo[44438]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:58:45 clarize-vm2 sudo[44438]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:59:11 clarize-vm2 sudo[44441]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -D INPUT 5
+Oct  8 18:59:11 clarize-vm2 sudo[44441]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:59:11 clarize-vm2 sudo[44441]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:59:11 clarize-vm2 sudo[44441]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:59:13 clarize-vm2 sudo[44444]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 18:59:13 clarize-vm2 sudo[44444]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:59:13 clarize-vm2 sudo[44444]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:59:13 clarize-vm2 sudo[44444]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:59:17 clarize-vm2 sudo[44447]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -D INPUT 5
+Oct  8 18:59:17 clarize-vm2 sudo[44447]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:59:17 clarize-vm2 sudo[44447]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:59:17 clarize-vm2 sudo[44447]: pam_unix(sudo:session): session closed for user root
+Oct  8 18:59:18 clarize-vm2 sudo[44450]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 18:59:18 clarize-vm2 sudo[44450]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 18:59:18 clarize-vm2 sudo[44450]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 18:59:18 clarize-vm2 sudo[44450]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:00:12 clarize-vm2 sudo[44453]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens192 -s 172.16.0.0/24 -p tcp --dport 80 -j ACCEPT
+Oct  8 19:00:12 clarize-vm2 sudo[44453]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:00:12 clarize-vm2 sudo[44453]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:00:12 clarize-vm2 sudo[44453]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:00:24 clarize-vm2 sudo[44456]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens192 -s 192.168.0.0/24 -p tcp --dport 80 -j ACCEPT
+Oct  8 19:00:24 clarize-vm2 sudo[44456]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:00:24 clarize-vm2 sudo[44456]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:00:24 clarize-vm2 sudo[44456]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:00:26 clarize-vm2 sudo[44459]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 19:00:26 clarize-vm2 sudo[44459]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:00:26 clarize-vm2 sudo[44459]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:00:26 clarize-vm2 sudo[44459]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:00:47 clarize-vm2 sudo[44462]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -D INPUT 5
+Oct  8 19:00:47 clarize-vm2 sudo[44462]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:00:47 clarize-vm2 sudo[44462]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:00:47 clarize-vm2 sudo[44462]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:00:55 clarize-vm2 sudo[44465]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens224 -s 192.168.0.0/24 -p tcp --dport 80 -j ACCEPT
+Oct  8 19:00:55 clarize-vm2 sudo[44465]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:00:55 clarize-vm2 sudo[44465]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:00:55 clarize-vm2 sudo[44465]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:00:58 clarize-vm2 sudo[44468]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 19:00:58 clarize-vm2 sudo[44468]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:00:58 clarize-vm2 sudo[44468]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:00:58 clarize-vm2 sudo[44468]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:02:09 clarize-vm2 sudo[44485]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/vim /var/log/httpd/error_log
+Oct  8 19:02:09 clarize-vm2 sudo[44485]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:02:09 clarize-vm2 sudo[44485]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:03:23 clarize-vm2 sudo[44485]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:17:20 clarize-vm2 sudo[44493]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/bin/vim index.html
+Oct  8 19:17:20 clarize-vm2 sudo[44493]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:17:20 clarize-vm2 sudo[44493]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:17:53 clarize-vm2 sudo[44493]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:31:35 clarize-vm2 sudo[44511]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 19:31:35 clarize-vm2 sudo[44511]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:31:35 clarize-vm2 sudo[44511]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:31:35 clarize-vm2 sudo[44511]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:31:54 clarize-vm2 sudo[44516]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/sbin/iptables -D INPUT 5
+Oct  8 19:31:54 clarize-vm2 sudo[44516]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:31:54 clarize-vm2 sudo[44516]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:31:54 clarize-vm2 sudo[44516]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:31:56 clarize-vm2 sudo[44519]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 19:31:56 clarize-vm2 sudo[44519]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:31:56 clarize-vm2 sudo[44519]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:31:56 clarize-vm2 sudo[44519]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:32:02 clarize-vm2 sudo[44522]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/sbin/iptables -D INPUT 5
+Oct  8 19:32:02 clarize-vm2 sudo[44522]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:32:02 clarize-vm2 sudo[44522]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:32:02 clarize-vm2 sudo[44522]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:32:23 clarize-vm2 sudo[44525]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens224 -s 192.168.0.0/16 -p tcp --dport 80 -j ACCEPT
+Oct  8 19:32:23 clarize-vm2 sudo[44525]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:32:23 clarize-vm2 sudo[44525]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:32:23 clarize-vm2 sudo[44525]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:32:58 clarize-vm2 sudo[44528]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens192 -s 172.16.0.0/16 -p tcp --dport 80 -j ACCEPT
+Oct  8 19:32:58 clarize-vm2 sudo[44528]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:32:58 clarize-vm2 sudo[44528]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:32:58 clarize-vm2 sudo[44528]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:33:00 clarize-vm2 sudo[44531]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 19:33:00 clarize-vm2 sudo[44531]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:33:00 clarize-vm2 sudo[44531]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:33:00 clarize-vm2 sudo[44531]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:37:38 clarize-vm2 sudo[44536]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/sbin/iptables save
+Oct  8 19:37:38 clarize-vm2 sudo[44536]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:37:38 clarize-vm2 sudo[44536]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:37:38 clarize-vm2 sudo[44536]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:37:45 clarize-vm2 sudo[44539]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/sbin/service iptables save
+Oct  8 19:37:45 clarize-vm2 sudo[44539]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:37:45 clarize-vm2 sudo[44539]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:37:45 clarize-vm2 sudo[44539]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:43:37 clarize-vm2 sshd[44580]: Accepted password for student from 10.102.108.15 port 54814 ssh2
+Oct  8 19:43:37 clarize-vm2 sshd[44580]: pam_unix(sshd:session): session opened for user student by (uid=0)
+Oct  8 19:44:27 clarize-vm2 sudo[44610]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 19:44:27 clarize-vm2 sudo[44610]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:44:27 clarize-vm2 sudo[44610]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:44:27 clarize-vm2 sudo[44610]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:44:30 clarize-vm2 sudo[44615]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 19:44:30 clarize-vm2 sudo[44615]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:44:30 clarize-vm2 sudo[44615]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:44:30 clarize-vm2 sudo[44615]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:55:36 clarize-vm2 sudo[44619]: student : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/bin/vim /etc/sysconfig/iptables
+Oct  8 19:55:36 clarize-vm2 sudo[44619]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:55:36 clarize-vm2 sudo[44619]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:57:24 clarize-vm2 sudo[44625]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 19:57:24 clarize-vm2 sudo[44625]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:57:24 clarize-vm2 sudo[44625]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:57:24 clarize-vm2 sudo[44625]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:57:41 clarize-vm2 sudo[44630]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -D INPUT 5
+Oct  8 19:57:41 clarize-vm2 sudo[44630]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:57:41 clarize-vm2 sudo[44630]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:57:41 clarize-vm2 sudo[44630]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:57:44 clarize-vm2 sudo[44633]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -D INPUT 5
+Oct  8 19:57:44 clarize-vm2 sudo[44633]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:57:44 clarize-vm2 sudo[44633]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:57:44 clarize-vm2 sudo[44633]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:58:00 clarize-vm2 sudo[44636]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 19:58:00 clarize-vm2 sudo[44636]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 19:58:00 clarize-vm2 sudo[44636]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 19:58:00 clarize-vm2 sudo[44636]: pam_unix(sudo:session): session closed for user root
+Oct  8 19:58:16 clarize-vm2 sudo[44619]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:06:21 clarize-vm2 sudo[44651]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens224 -s 192.168.0.0/16 -p tcp --dport 80 -j LOGGING
+Oct  8 20:06:21 clarize-vm2 sudo[44651]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:06:21 clarize-vm2 sudo[44651]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:06:21 clarize-vm2 sudo[44651]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:06:25 clarize-vm2 sudo[44656]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 20:06:25 clarize-vm2 sudo[44656]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:06:25 clarize-vm2 sudo[44656]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:06:25 clarize-vm2 sudo[44656]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:06:59 clarize-vm2 sudo[44660]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -i ens192 -s 172.16.0.0/16 -p tcp --dport 80 -j LOGGING
+Oct  8 20:06:59 clarize-vm2 sudo[44660]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:06:59 clarize-vm2 sudo[44660]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:06:59 clarize-vm2 sudo[44660]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:07:01 clarize-vm2 sudo[44663]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 20:07:01 clarize-vm2 sudo[44663]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:07:01 clarize-vm2 sudo[44663]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:07:01 clarize-vm2 sudo[44663]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:09:59 clarize-vm2 sudo[44667]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -A LOGGING -m limit --limit 2/min -j LOG --log-prefix IPtables-webserver:
+Oct  8 20:09:59 clarize-vm2 sudo[44667]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:09:59 clarize-vm2 sudo[44667]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:09:59 clarize-vm2 sudo[44667]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:10:02 clarize-vm2 sudo[44679]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 20:10:02 clarize-vm2 sudo[44679]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:10:02 clarize-vm2 sudo[44679]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:10:02 clarize-vm2 sudo[44679]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:11:11 clarize-vm2 sudo[44682]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I LOGGING 2 -j ACCEPT
+Oct  8 20:11:11 clarize-vm2 sudo[44682]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:11:11 clarize-vm2 sudo[44682]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:11:11 clarize-vm2 sudo[44682]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:11:13 clarize-vm2 sudo[44685]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 20:11:13 clarize-vm2 sudo[44685]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:11:13 clarize-vm2 sudo[44685]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:11:13 clarize-vm2 sudo[44685]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:12:18 clarize-vm2 sudo[44689]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 20:12:18 clarize-vm2 sudo[44689]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:12:18 clarize-vm2 sudo[44689]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:12:18 clarize-vm2 sudo[44689]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:13:10 clarize-vm2 sudo[44693]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 20:13:10 clarize-vm2 sudo[44693]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:13:10 clarize-vm2 sudo[44693]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:13:10 clarize-vm2 sudo[44693]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:13:58 clarize-vm2 sudo[44699]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 20:13:58 clarize-vm2 sudo[44699]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:13:58 clarize-vm2 sudo[44699]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:13:58 clarize-vm2 sudo[44699]: pam_unix(sudo:session): session closed for user root
+Oct  8 20:14:09 clarize-vm2 sudo[44703]: student : TTY=pts/1 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 20:14:09 clarize-vm2 sudo[44703]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 20:14:09 clarize-vm2 sudo[44703]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 20:14:09 clarize-vm2 sudo[44703]: pam_unix(sudo:session): session closed for user root
+Oct  8 22:00:30 clarize-vm2 sshd[44747]: Accepted password for student from 10.102.108.15 port 55530 ssh2
+Oct  8 22:00:30 clarize-vm2 sshd[44747]: pam_unix(sshd:session): session opened for user student by (uid=0)
+Oct  8 22:05:58 clarize-vm2 sshd[44789]: Accepted password for student from 10.102.108.13 port 56418 ssh2
+Oct  8 22:05:58 clarize-vm2 sshd[44789]: pam_unix(sshd:session): session opened for user student by (uid=0)
+Oct  8 22:06:10 clarize-vm2 sshd[44793]: Received disconnect from 10.102.108.13 port 56418:11: disconnected by user
+Oct  8 22:06:10 clarize-vm2 sshd[44793]: Disconnected from user student 10.102.108.13 port 56418
+Oct  8 22:06:10 clarize-vm2 sshd[44789]: pam_unix(sshd:session): session closed for user student
+Oct  8 22:22:14 clarize-vm2 sshd[19503]: pam_unix(sshd:session): session closed for user student
+Oct  8 22:22:14 clarize-vm2 su[43111]: pam_unix(su:session): session closed for user student
+Oct  8 22:22:14 clarize-vm2 su[43082]: pam_unix(su:session): session closed for user cmascarinas
+Oct  8 22:22:14 clarize-vm2 su[43057]: pam_unix(su:session): session closed for user student
+Oct  8 22:22:14 clarize-vm2 su[43025]: pam_unix(su:session): session closed for user cmascarinas
+Oct  8 22:22:14 clarize-vm2 su[42985]: pam_unix(su:session): session closed for user student
+Oct  8 22:22:14 clarize-vm2 su[42958]: pam_unix(su:session): session closed for user cmascarinas
+Oct  8 22:22:14 clarize-vm2 su[42927]: pam_unix(su:session): session closed for user student
+Oct  8 22:22:14 clarize-vm2 su[42897]: pam_unix(su:session): session closed for user cmascarinas
+Oct  8 22:28:27 clarize-vm2 sshd[44827]: Accepted publickey for instructor from 172.16.0.1 port 47614 ssh2: RSA SHA256:QMy96Bymjtqkyayz7Av77aE23PqWehCLYM9/0n74kPY
+Oct  8 22:28:27 clarize-vm2 systemd[44831]: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Oct  8 22:28:27 clarize-vm2 sshd[44827]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Oct  8 22:28:27 clarize-vm2 sshd[44840]: Received disconnect from 172.16.0.1 port 47614:11: disconnected by user
+Oct  8 22:28:27 clarize-vm2 sshd[44840]: Disconnected from user instructor 172.16.0.1 port 47614
+Oct  8 22:28:27 clarize-vm2 sshd[44827]: pam_unix(sshd:session): session closed for user instructor
+Oct  8 22:28:27 clarize-vm2 systemd[44834]: pam_unix(systemd-user:session): session closed for user instructor
+Oct  8 22:41:53 clarize-vm2 sshd[44580]: pam_unix(sshd:session): session closed for user student
+Oct  8 22:45:32 clarize-vm2 sudo[44882]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 22:45:32 clarize-vm2 sudo[44882]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 22:45:32 clarize-vm2 sudo[44882]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 22:45:32 clarize-vm2 sudo[44882]: pam_unix(sudo:session): session closed for user root
+Oct  8 22:48:09 clarize-vm2 sudo[44889]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 22:48:09 clarize-vm2 sudo[44889]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 22:48:09 clarize-vm2 sudo[44889]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 22:48:09 clarize-vm2 sudo[44889]: pam_unix(sudo:session): session closed for user root
+Oct  8 22:49:40 clarize-vm2 sudo[44892]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 6 -i ens224 -s 192.168.20.0/24 -p tcp --dport 80 -j LOGGING
+Oct  8 22:49:40 clarize-vm2 sudo[44892]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 22:49:40 clarize-vm2 sudo[44892]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 22:49:40 clarize-vm2 sudo[44892]: pam_unix(sudo:session): session closed for user root
+Oct  8 22:49:42 clarize-vm2 sudo[44895]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 22:49:42 clarize-vm2 sudo[44895]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 22:49:42 clarize-vm2 sudo[44895]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 22:49:42 clarize-vm2 sudo[44895]: pam_unix(sudo:session): session closed for user root
+Oct  8 22:50:07 clarize-vm2 sudo[44898]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -D INPUT 7
+Oct  8 22:50:07 clarize-vm2 sudo[44898]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 22:50:07 clarize-vm2 sudo[44898]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 22:50:07 clarize-vm2 sudo[44898]: pam_unix(sudo:session): session closed for user root
+Oct  8 22:51:27 clarize-vm2 sudo[44902]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 22:51:27 clarize-vm2 sudo[44902]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 22:51:27 clarize-vm2 sudo[44902]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 22:51:27 clarize-vm2 sudo[44902]: pam_unix(sudo:session): session closed for user root
+Oct  8 22:55:11 clarize-vm2 sudo[44907]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 22:55:11 clarize-vm2 sudo[44907]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 22:55:11 clarize-vm2 sudo[44907]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 22:55:11 clarize-vm2 sudo[44907]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:02:51 clarize-vm2 sudo[44923]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/vim /var/ww/html/index.html
+Oct  8 23:02:51 clarize-vm2 sudo[44923]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:02:51 clarize-vm2 sudo[44923]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:02:56 clarize-vm2 sudo[44923]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:03:23 clarize-vm2 sudo[44928]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cd /var/ww/html
+Oct  8 23:03:23 clarize-vm2 sudo[44928]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:03:23 clarize-vm2 sudo[44928]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:03:23 clarize-vm2 sudo[44928]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:03:30 clarize-vm2 sudo[44931]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cd /var/www/html
+Oct  8 23:03:30 clarize-vm2 sudo[44931]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:03:30 clarize-vm2 sudo[44931]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:03:30 clarize-vm2 sudo[44931]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:08:16 clarize-vm2 sudo[44940]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cp index.html /home/cmascarinas/public_html
+Oct  8 23:08:16 clarize-vm2 sudo[44940]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:08:16 clarize-vm2 sudo[44940]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:08:16 clarize-vm2 sudo[44940]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:08:33 clarize-vm2 sudo[44944]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/ls /home/cmascarinas
+Oct  8 23:08:33 clarize-vm2 sudo[44944]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:08:33 clarize-vm2 sudo[44944]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:08:33 clarize-vm2 sudo[44944]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:13:02 clarize-vm2 sudo[44950]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/boot.log
+Oct  8 23:13:02 clarize-vm2 sudo[44950]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:13:02 clarize-vm2 sudo[44950]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:13:02 clarize-vm2 sudo[44950]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:13:12 clarize-vm2 sudo[44953]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/maillog
+Oct  8 23:13:12 clarize-vm2 sudo[44953]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:13:12 clarize-vm2 sudo[44953]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:13:12 clarize-vm2 sudo[44953]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:13:19 clarize-vm2 sudo[44956]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/secure
+Oct  8 23:13:19 clarize-vm2 sudo[44956]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:13:19 clarize-vm2 sudo[44956]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:13:19 clarize-vm2 sudo[44956]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:14:07 clarize-vm2 sudo[44959]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/secure
+Oct  8 23:14:07 clarize-vm2 sudo[44959]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:14:07 clarize-vm2 sudo[44959]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:14:07 clarize-vm2 sudo[44959]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:14:28 clarize-vm2 sudo[44962]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/utmpdump /var/log/wtmp
+Oct  8 23:14:28 clarize-vm2 sudo[44962]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:14:28 clarize-vm2 sudo[44962]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:14:28 clarize-vm2 sudo[44962]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:14:41 clarize-vm2 sudo[44965]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/utmpdump /var/log/btmp
+Oct  8 23:14:41 clarize-vm2 sudo[44965]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:14:41 clarize-vm2 sudo[44965]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:14:41 clarize-vm2 sudo[44965]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:14:57 clarize-vm2 sudo[44968]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/utmpdump /var/log/lastlog
+Oct  8 23:14:57 clarize-vm2 sudo[44968]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:14:57 clarize-vm2 sudo[44968]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:14:57 clarize-vm2 sudo[44968]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:15:05 clarize-vm2 sudo[44971]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/utmpdump /var/log/dnf.log
+Oct  8 23:15:05 clarize-vm2 sudo[44971]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:15:05 clarize-vm2 sudo[44971]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:15:05 clarize-vm2 sudo[44971]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:18:55 clarize-vm2 sudo[44977]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n
+Oct  8 23:18:55 clarize-vm2 sudo[44977]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:18:55 clarize-vm2 sudo[44977]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:18:55 clarize-vm2 sudo[44977]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:21:42 clarize-vm2 sudo[44980]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -s 127.0.0.1 -d 127.0.0.1 -p tcp --dport 80 -j LOGGING
+Oct  8 23:21:42 clarize-vm2 sudo[44980]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:21:42 clarize-vm2 sudo[44980]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:21:42 clarize-vm2 sudo[44980]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:22:22 clarize-vm2 sudo[44984]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/message
+Oct  8 23:22:22 clarize-vm2 sudo[44984]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:22:22 clarize-vm2 sudo[44984]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:22:22 clarize-vm2 sudo[44984]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:22:27 clarize-vm2 sudo[44988]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 23:22:27 clarize-vm2 sudo[44988]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:22:27 clarize-vm2 sudo[44988]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:22:27 clarize-vm2 sudo[44988]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:22:39 clarize-vm2 sudo[44992]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n
+Oct  8 23:22:39 clarize-vm2 sudo[44992]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:22:39 clarize-vm2 sudo[44992]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:22:39 clarize-vm2 sudo[44992]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:23:22 clarize-vm2 sudo[44995]: student : TTY=pts/2 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 23:23:22 clarize-vm2 sudo[44995]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:23:22 clarize-vm2 sudo[44995]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:23:22 clarize-vm2 sudo[44995]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:25:09 clarize-vm2 sshd[45000]: Accepted password for student from 10.102.108.15 port 55912 ssh2
+Oct  8 23:25:09 clarize-vm2 sshd[45000]: pam_unix(sshd:session): session opened for user student by (uid=0)
+Oct  8 23:25:57 clarize-vm2 sudo[45030]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n
+Oct  8 23:25:57 clarize-vm2 sudo[45030]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:25:57 clarize-vm2 sudo[45030]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:25:57 clarize-vm2 sudo[45030]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:26:08 clarize-vm2 sudo[45035]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 23:26:08 clarize-vm2 sudo[45035]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:26:08 clarize-vm2 sudo[45035]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:26:08 clarize-vm2 sudo[45035]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:28:40 clarize-vm2 sudo[45038]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 5 -s 127.0.0.1 -d 192.168.20.2 -p tcp --dport 80 -j LOGGING
+Oct  8 23:28:40 clarize-vm2 sudo[45038]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:28:40 clarize-vm2 sudo[45038]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:28:40 clarize-vm2 sudo[45038]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:28:42 clarize-vm2 sudo[45041]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 23:28:42 clarize-vm2 sudo[45041]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:28:42 clarize-vm2 sudo[45041]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:28:42 clarize-vm2 sudo[45041]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:29:04 clarize-vm2 sudo[45044]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -D INPUT 6
+Oct  8 23:29:04 clarize-vm2 sudo[45044]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:29:04 clarize-vm2 sudo[45044]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:29:04 clarize-vm2 sudo[45044]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:29:06 clarize-vm2 sudo[45047]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 23:29:06 clarize-vm2 sudo[45047]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:29:06 clarize-vm2 sudo[45047]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:29:06 clarize-vm2 sudo[45047]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:29:37 clarize-vm2 sudo[45052]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 23:29:37 clarize-vm2 sudo[45052]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:29:37 clarize-vm2 sudo[45052]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:29:37 clarize-vm2 sudo[45052]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:34:01 clarize-vm2 sudo[45056]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 23:34:01 clarize-vm2 sudo[45056]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:34:01 clarize-vm2 sudo[45056]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:34:01 clarize-vm2 sudo[45056]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:37:32 clarize-vm2 sudo[45065]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=./lab3.sh
+Oct  8 23:37:32 clarize-vm2 sudo[45065]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:37:32 clarize-vm2 sudo[45065]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:37:32 clarize-vm2 sudo[45065]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:37:44 clarize-vm2 sudo[45070]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=./lab3.sh
+Oct  8 23:37:44 clarize-vm2 sudo[45070]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:37:44 clarize-vm2 sudo[45070]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:37:44 clarize-vm2 sudo[45070]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:38:04 clarize-vm2 sudo[45075]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=./lab3.sh
+Oct  8 23:38:04 clarize-vm2 sudo[45075]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:38:04 clarize-vm2 sudo[45075]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:38:04 clarize-vm2 sudo[45075]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:38:19 clarize-vm2 sudo[45081]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=./lab3.sh
+Oct  8 23:38:19 clarize-vm2 sudo[45081]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:38:19 clarize-vm2 sudo[45081]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:38:19 clarize-vm2 sudo[45081]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:38:37 clarize-vm2 sudo[45086]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=./lab3.sh
+Oct  8 23:38:37 clarize-vm2 sudo[45086]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:38:37 clarize-vm2 sudo[45086]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:38:37 clarize-vm2 sudo[45086]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:38:53 clarize-vm2 sudo[45091]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=./lab3.sh
+Oct  8 23:38:53 clarize-vm2 sudo[45091]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:38:53 clarize-vm2 sudo[45091]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:38:53 clarize-vm2 sudo[45091]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:39:02 clarize-vm2 sudo[45095]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=./lab3.sh
+Oct  8 23:39:02 clarize-vm2 sudo[45095]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:39:02 clarize-vm2 sudo[45095]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:39:02 clarize-vm2 sudo[45095]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:40:54 clarize-vm2 sshd[44751]: Received disconnect from 10.102.108.15 port 55530:11: disconnected by user
+Oct  8 23:40:54 clarize-vm2 sshd[44751]: Disconnected from user student 10.102.108.15 port 55530
+Oct  8 23:40:54 clarize-vm2 sshd[44747]: pam_unix(sshd:session): session closed for user student
+Oct  8 23:41:15 clarize-vm2 sudo[45108]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=./lab3.sh
+Oct  8 23:41:15 clarize-vm2 sudo[45108]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:41:15 clarize-vm2 sudo[45108]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:41:15 clarize-vm2 sudo[45111]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 23:41:15 clarize-vm2 sudo[45111]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:41:15 clarize-vm2 sudo[45111]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:41:15 clarize-vm2 sudo[45111]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:41:15 clarize-vm2 sudo[45108]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:42:42 clarize-vm2 sudo[45115]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n
+Oct  8 23:42:42 clarize-vm2 sudo[45115]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:42:42 clarize-vm2 sudo[45115]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:42:42 clarize-vm2 sudo[45115]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:42:53 clarize-vm2 sudo[45118]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 23:42:53 clarize-vm2 sudo[45118]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:42:53 clarize-vm2 sudo[45118]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:42:53 clarize-vm2 sudo[45118]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:45:33 clarize-vm2 sudo[45124]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -I INPUT 3 -s 127.0.0.1 -d 192.168.20.2 -p tcp --dport 80 -j LOGGING
+Oct  8 23:45:33 clarize-vm2 sudo[45124]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:45:33 clarize-vm2 sudo[45124]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:45:33 clarize-vm2 sudo[45124]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:45:35 clarize-vm2 sudo[45127]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  8 23:45:35 clarize-vm2 sudo[45127]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:45:35 clarize-vm2 sudo[45127]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:45:35 clarize-vm2 sudo[45127]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:48:07 clarize-vm2 sudo[45132]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  8 23:48:07 clarize-vm2 sudo[45132]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:48:07 clarize-vm2 sudo[45132]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:48:07 clarize-vm2 sudo[45132]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:52:05 clarize-vm2 unix_chkpwd[45139]: password check failed for user (cmascarinas)
+Oct  8 23:52:05 clarize-vm2 su[45137]: pam_unix(su:auth): authentication failure; logname=student uid=1000 euid=0 tty=pts/0 ruser=student rhost=  user=cmascarinas
+Oct  8 23:52:10 clarize-vm2 su[45140]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:52:10 clarize-vm2 su[45140]: pam_unix(su:session): session opened for user cmascarinas by student(uid=1000)
+Oct  8 23:55:16 clarize-vm2 unix_chkpwd[45182]: password check failed for user (cmascarinas)
+Oct  8 23:55:16 clarize-vm2 sudo[45180]: pam_unix(sudo:auth): authentication failure; logname=student uid=1002 euid=0 tty=/dev/pts/0 ruser=cmascarinas rhost=  user=cmascarinas
+Oct  8 23:55:22 clarize-vm2 sudo[45180]: cmascarinas : user NOT in sudoers ; TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/bin/ls -l home
+Oct  8 23:55:37 clarize-vm2 su[45186]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:55:37 clarize-vm2 su[45186]: pam_unix(su:session): session opened for user student by student(uid=1002)
+Oct  8 23:56:02 clarize-vm2 sudo[45212]: student : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/bin/ls -l home
+Oct  8 23:56:02 clarize-vm2 sudo[45212]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:56:02 clarize-vm2 sudo[45212]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:56:02 clarize-vm2 sudo[45212]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:56:26 clarize-vm2 sudo[45219]: student : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/bin/ls -l cmascarinas/
+Oct  8 23:56:26 clarize-vm2 sudo[45219]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:56:26 clarize-vm2 sudo[45219]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:56:26 clarize-vm2 sudo[45219]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:56:47 clarize-vm2 sudo[45222]: student : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/bin/cd cmascarinas/
+Oct  8 23:56:47 clarize-vm2 sudo[45222]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:56:47 clarize-vm2 sudo[45222]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  8 23:56:47 clarize-vm2 sudo[45222]: pam_unix(sudo:session): session closed for user root
+Oct  8 23:57:03 clarize-vm2 su[45226]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  8 23:57:03 clarize-vm2 su[45226]: pam_unix(su:session): session opened for user cmascarinas by student(uid=1000)
+Oct  9 00:01:26 clarize-vm2 sudo[45276]: cmascarinas : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/cmascarinas ; USER=root ; COMMAND=/sbin/setsebool httpd_enable_homedirs on
+Oct  9 00:07:38 clarize-vm2 sshd[45289]: Accepted password for student from 10.102.108.13 port 57040 ssh2
+Oct  9 00:07:38 clarize-vm2 sshd[45289]: pam_unix(sshd:session): session opened for user student by (uid=0)
+Oct  9 00:13:14 clarize-vm2 sudo[45332]: cmascarinas : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/cmascarinas ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  9 00:13:30 clarize-vm2 su[45337]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:13:30 clarize-vm2 su[45337]: pam_unix(su:session): session opened for user student by student(uid=1002)
+Oct  9 00:14:02 clarize-vm2 sudo[45363]: student : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/cat /var/log/messages
+Oct  9 00:14:02 clarize-vm2 sudo[45363]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:14:02 clarize-vm2 sudo[45363]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  9 00:14:02 clarize-vm2 sudo[45363]: pam_unix(sudo:session): session closed for user root
+Oct  9 00:15:12 clarize-vm2 sshd[45293]: Received disconnect from 10.102.108.13 port 57040:11: disconnected by user
+Oct  9 00:15:12 clarize-vm2 sshd[45293]: Disconnected from user student 10.102.108.13 port 57040
+Oct  9 00:15:12 clarize-vm2 sshd[45289]: pam_unix(sshd:session): session closed for user student
+Oct  9 00:17:50 clarize-vm2 sudo[45372]: student : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/sbin/iptables -L -v -n --line-numbers
+Oct  9 00:17:50 clarize-vm2 sudo[45372]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:17:50 clarize-vm2 sudo[45372]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  9 00:17:50 clarize-vm2 sudo[45372]: pam_unix(sudo:session): session closed for user root
+Oct  9 00:18:20 clarize-vm2 sudo[45375]: student : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/sbin/iptables -D INPUT 3
+Oct  9 00:18:20 clarize-vm2 sudo[45375]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:18:20 clarize-vm2 sudo[45375]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  9 00:18:20 clarize-vm2 sudo[45375]: pam_unix(sudo:session): session closed for user root
+Oct  9 00:24:09 clarize-vm2 sudo[45383]: student : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/cp message /home/cmascarinas/log-backup/
+Oct  9 00:24:09 clarize-vm2 sudo[45383]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:24:09 clarize-vm2 sudo[45383]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  9 00:24:09 clarize-vm2 sudo[45383]: pam_unix(sudo:session): session closed for user root
+Oct  9 00:24:14 clarize-vm2 sudo[45388]: student : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/cp messages /home/cmascarinas/log-backup/
+Oct  9 00:24:14 clarize-vm2 sudo[45388]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:24:14 clarize-vm2 sudo[45388]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  9 00:24:14 clarize-vm2 sudo[45388]: pam_unix(sudo:session): session closed for user root
+Oct  9 00:24:42 clarize-vm2 unix_chkpwd[45394]: password check failed for user (cmascarinas)
+Oct  9 00:24:42 clarize-vm2 su[45392]: pam_unix(su:auth): authentication failure; logname=student uid=1000 euid=0 tty=pts/0 ruser=student rhost=  user=cmascarinas
+Oct  9 00:24:48 clarize-vm2 su[45395]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:24:48 clarize-vm2 su[45395]: pam_unix(su:session): session opened for user cmascarinas by student(uid=1000)
+Oct  9 00:31:03 clarize-vm2 sshd[45429]: Accepted publickey for instructor from 172.16.0.1 port 47812 ssh2: RSA SHA256:QMy96Bymjtqkyayz7Av77aE23PqWehCLYM9/0n74kPY
+Oct  9 00:31:03 clarize-vm2 systemd[45433]: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Oct  9 00:31:03 clarize-vm2 sshd[45429]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Oct  9 00:31:03 clarize-vm2 sshd[45443]: Received disconnect from 172.16.0.1 port 47812:11: disconnected by user
+Oct  9 00:31:03 clarize-vm2 sshd[45443]: Disconnected from user instructor 172.16.0.1 port 47812
+Oct  9 00:31:03 clarize-vm2 sshd[45429]: pam_unix(sshd:session): session closed for user instructor
+Oct  9 00:31:03 clarize-vm2 systemd[45437]: pam_unix(systemd-user:session): session closed for user instructor
+Oct  9 00:33:11 clarize-vm2 sshd[45469]: Accepted publickey for instructor from 172.16.0.1 port 48052 ssh2: RSA SHA256:QMy96Bymjtqkyayz7Av77aE23PqWehCLYM9/0n74kPY
+Oct  9 00:33:11 clarize-vm2 systemd[45473]: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Oct  9 00:33:11 clarize-vm2 sshd[45469]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Oct  9 00:33:11 clarize-vm2 sshd[45482]: Received disconnect from 172.16.0.1 port 48052:11: disconnected by user
+Oct  9 00:33:11 clarize-vm2 sshd[45482]: Disconnected from user instructor 172.16.0.1 port 48052
+Oct  9 00:33:11 clarize-vm2 sshd[45469]: pam_unix(sshd:session): session closed for user instructor
+Oct  9 00:33:11 clarize-vm2 systemd[45476]: pam_unix(systemd-user:session): session closed for user instructor
+Oct  9 00:40:09 clarize-vm2 su[45512]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:40:09 clarize-vm2 su[45512]: pam_unix(su:session): session opened for user student by student(uid=1002)
+Oct  9 00:42:24 clarize-vm2 sudo[45541]: student : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/cp messages /home/cmascarinas/lab3/log-backup
+Oct  9 00:42:24 clarize-vm2 sudo[45541]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:42:24 clarize-vm2 sudo[45541]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  9 00:42:24 clarize-vm2 sudo[45541]: pam_unix(sudo:session): session closed for user root
+Oct  9 00:42:39 clarize-vm2 sudo[45546]: student : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/cp boot.log /home/cmascarinas/lab3/log-backup
+Oct  9 00:42:39 clarize-vm2 sudo[45546]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:42:39 clarize-vm2 sudo[45546]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  9 00:42:39 clarize-vm2 sudo[45546]: pam_unix(sudo:session): session closed for user root
+Oct  9 00:43:11 clarize-vm2 su[45550]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:43:11 clarize-vm2 su[45550]: pam_unix(su:session): session opened for user cmascarinas by student(uid=1000)
+Oct  9 00:43:31 clarize-vm2 su[45582]: pam_systemd(su:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:43:31 clarize-vm2 su[45582]: pam_unix(su:session): session opened for user student by student(uid=1002)
+Oct  9 00:49:13 clarize-vm2 sudo[45611]: student : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/cp maillog /home/cmascarinas/lab3/log-backup/
+Oct  9 00:49:13 clarize-vm2 sudo[45611]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct  9 00:49:13 clarize-vm2 sudo[45611]: pam_unix(sudo:session): session opened for user root by student(uid=0)
+Oct  9 00:49:13 clarize-vm2 sudo[45611]: pam_unix(sudo:session): session closed for user root

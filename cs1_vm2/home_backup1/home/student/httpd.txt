@@ -1,0 +1,30 @@
+Last metadata expiration check: 1:40:43 ago on Thu Oct  8 16:01:02 2020.
+Dependencies resolved.
+================================================================================
+ Package          Arch   Version                                Repo       Size
+================================================================================
+Installing:
+ httpd            x86_64 2.4.37-21.module_el8.2.0+494+1df74eae  AppStream 1.7 M
+ httpd-manual     noarch 2.4.37-21.module_el8.2.0+494+1df74eae  AppStream 2.4 M
+Installing dependencies:
+ apr              x86_64 1.6.3-9.el8                            AppStream 125 k
+ apr-util         x86_64 1.6.1-6.el8                            AppStream 105 k
+ centos-logos-httpd
+                  noarch 80.5-2.el8                             BaseOS     24 k
+ httpd-filesystem noarch 2.4.37-21.module_el8.2.0+494+1df74eae  AppStream  36 k
+ httpd-tools      x86_64 2.4.37-21.module_el8.2.0+494+1df74eae  AppStream 103 k
+ mailcap          noarch 2.1.48-3.el8                           BaseOS     39 k
+ mod_http2        x86_64 1.11.3-3.module_el8.2.0+486+c01050f0.1 AppStream 156 k
+Installing weak dependencies:
+ apr-util-bdb     x86_64 1.6.1-6.el8                            AppStream  25 k
+ apr-util-openssl x86_64 1.6.1-6.el8                            AppStream  27 k
+Enabling module streams:
+ httpd                   2.4                                                   
+
+Transaction Summary
+================================================================================
+Install  11 Packages
+
+Total download size: 4.7 M
+Installed size: 13 M
+Is this ok [y/N]: 

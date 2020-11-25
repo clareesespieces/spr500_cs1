@@ -1,0 +1,323 @@
+Last metadata expiration check: 1:35:02 ago on Thu 08 Oct 2020 04:01:02 PM EDT.
+Dependencies resolved.
+================================================================================
+ Package                  Arch   Version                        Repo       Size
+================================================================================
+Installing:
+ kernel                   x86_64 4.18.0-193.19.1.el8_2          BaseOS    2.8 M
+ kernel-core              x86_64 4.18.0-193.19.1.el8_2          BaseOS     28 M
+ kernel-modules           x86_64 4.18.0-193.19.1.el8_2          BaseOS     23 M
+Upgrading:
+ NetworkManager           x86_64 1:1.22.8-5.el8_2               BaseOS    2.3 M
+ NetworkManager-libnm     x86_64 1:1.22.8-5.el8_2               BaseOS    1.7 M
+ NetworkManager-team      x86_64 1:1.22.8-5.el8_2               BaseOS    136 k
+ NetworkManager-tui       x86_64 1:1.22.8-5.el8_2               BaseOS    306 k
+ bind-export-libs         x86_64 32:9.11.13-6.el8_2.1           BaseOS    1.1 M
+ ca-certificates          noarch 2020.2.41-80.0.el8_2           BaseOS    391 k
+ centos-gpg-keys          noarch 8.2-2.2004.0.2.el8             BaseOS     12 k
+ centos-release           x86_64 8.2-2.2004.0.2.el8             BaseOS     21 k
+ centos-repos             x86_64 8.2-2.2004.0.2.el8             BaseOS     13 k
+ coreutils                x86_64 8.30-7.el8_2.1                 BaseOS    1.2 M
+ coreutils-common         x86_64 8.30-7.el8_2.1                 BaseOS    2.0 M
+ dbus                     x86_64 1:1.12.8-10.el8_2              BaseOS     41 k
+ dbus-common              noarch 1:1.12.8-10.el8_2              BaseOS     45 k
+ dbus-daemon              x86_64 1:1.12.8-10.el8_2              BaseOS    239 k
+ dbus-libs                x86_64 1:1.12.8-10.el8_2              BaseOS    183 k
+ dbus-tools               x86_64 1:1.12.8-10.el8_2              BaseOS     85 k
+ dnf                      noarch 4.2.17-7.el8_2                 BaseOS    469 k
+ dnf-data                 noarch 4.2.17-7.el8_2                 BaseOS    145 k
+ dnf-plugins-core         noarch 4.0.12-4.el8_2                 BaseOS     64 k
+ gnutls                   x86_64 3.6.8-11.el8_2                 BaseOS    915 k
+ grub2-common             noarch 1:2.02-87.el8_2                BaseOS    882 k
+ grub2-pc                 x86_64 1:2.02-87.el8_2                BaseOS     37 k
+ grub2-pc-modules         noarch 1:2.02-87.el8_2                BaseOS    863 k
+ grub2-tools              x86_64 1:2.02-87.el8_2                BaseOS    2.0 M
+ grub2-tools-extra        x86_64 1:2.02-87.el8_2                BaseOS    1.1 M
+ grub2-tools-minimal      x86_64 1:2.02-87.el8_2                BaseOS    202 k
+ initscripts              x86_64 10.00.6-1.el8_2.2              BaseOS    338 k
+ kernel-tools             x86_64 4.18.0-193.19.1.el8_2          BaseOS    3.0 M
+ kernel-tools-libs        x86_64 4.18.0-193.19.1.el8_2          BaseOS    2.8 M
+ kpartx                   x86_64 0.8.3-3.el8_2.3                BaseOS    105 k
+ libcroco                 x86_64 0.6.12-4.el8_2.1               BaseOS    113 k
+ libdnf                   x86_64 0.39.1-6.el8_2                 BaseOS    620 k
+ libnghttp2               x86_64 1.33.0-3.el8_2.1               BaseOS     77 k
+ librepo                  x86_64 1.11.0-3.el8_2                 BaseOS     90 k
+ libteam                  x86_64 1.29-1.el8_2.2                 BaseOS     63 k
+ microcode_ctl            x86_64 4:20191115-4.20200609.1.el8_2  BaseOS    2.7 M
+ open-vm-tools            x86_64 11.0.5-3.el8                   AppStream 703 k
+ python3-dnf              noarch 4.2.17-7.el8_2                 BaseOS    521 k
+ python3-dnf-plugins-core noarch 4.0.12-4.el8_2                 BaseOS    204 k
+ python3-hawkey           x86_64 0.39.1-6.el8_2                 BaseOS     99 k
+ python3-libdnf           x86_64 0.39.1-6.el8_2                 BaseOS    689 k
+ python3-librepo          x86_64 1.11.0-3.el8_2                 BaseOS     52 k
+ python3-perf             x86_64 4.18.0-193.19.1.el8_2          BaseOS    2.9 M
+ python3-syspurpose       x86_64 1.26.20-1.el8_2                BaseOS    287 k
+ python3-unbound          x86_64 1.7.3-11.el8_2                 AppStream 118 k
+ selinux-policy           noarch 3.14.3-41.el8_2.6              BaseOS    615 k
+ selinux-policy-targeted  noarch 3.14.3-41.el8_2.6              BaseOS     15 M
+ systemd                  x86_64 239-31.el8_2.2                 BaseOS    3.5 M
+ systemd-libs             x86_64 239-31.el8_2.2                 BaseOS    1.1 M
+ systemd-pam              x86_64 239-31.el8_2.2                 BaseOS    451 k
+ systemd-udev             x86_64 239-31.el8_2.2                 BaseOS    1.3 M
+ teamd                    x86_64 1.29-1.el8_2.2                 BaseOS    128 k
+ tzdata                   noarch 2020a-1.el8                    BaseOS    469 k
+ unbound-libs             x86_64 1.7.3-11.el8_2                 AppStream 499 k
+ yum                      noarch 4.2.17-7.el8_2                 BaseOS    191 k
+ zlib                     x86_64 1.2.11-16.el8_2                BaseOS    102 k
+Installing dependencies:
+ grub2-tools-efi          x86_64 1:2.02-87.el8_2                BaseOS    467 k
+
+Transaction Summary
+================================================================================
+Install   4 Packages
+Upgrade  56 Packages
+
+Total download size: 109 M
+Downloading Packages:
+(1/60): grub2-tools-efi-2.02-87.el8_2.x86_64.rp 3.6 MB/s | 467 kB     00:00    
+(2/60): kernel-4.18.0-193.19.1.el8_2.x86_64.rpm  13 MB/s | 2.8 MB     00:00    
+(3/60): kernel-core-4.18.0-193.19.1.el8_2.x86_6  37 MB/s |  28 MB     00:00    
+(4/60): open-vm-tools-11.0.5-3.el8.x86_64.rpm   870 kB/s | 703 kB     00:00    
+(5/60): python3-unbound-1.7.3-11.el8_2.x86_64.r 288 kB/s | 118 kB     00:00    
+(6/60): NetworkManager-1.22.8-5.el8_2.x86_64.rp  19 MB/s | 2.3 MB     00:00    
+(7/60): unbound-libs-1.7.3-11.el8_2.x86_64.rpm  649 kB/s | 499 kB     00:00    
+(8/60): NetworkManager-team-1.22.8-5.el8_2.x86_ 4.2 MB/s | 136 kB     00:00    
+(9/60): NetworkManager-tui-1.22.8-5.el8_2.x86_6 9.9 MB/s | 306 kB     00:00    
+(10/60): bind-export-libs-9.11.13-6.el8_2.1.x86  25 MB/s | 1.1 MB     00:00    
+(11/60): ca-certificates-2020.2.41-80.0.el8_2.n  19 MB/s | 391 kB     00:00    
+(12/60): centos-gpg-keys-8.2-2.2004.0.2.el8.noa 1.0 MB/s |  12 kB     00:00    
+(13/60): centos-release-8.2-2.2004.0.2.el8.x86_ 1.7 MB/s |  21 kB     00:00    
+(14/60): centos-repos-8.2-2.2004.0.2.el8.x86_64 1.2 MB/s |  13 kB     00:00    
+(15/60): coreutils-8.30-7.el8_2.1.x86_64.rpm     20 MB/s | 1.2 MB     00:00    
+(16/60): coreutils-common-8.30-7.el8_2.1.x86_64  24 MB/s | 2.0 MB     00:00    
+(17/60): dbus-1.12.8-10.el8_2.x86_64.rpm        3.3 MB/s |  41 kB     00:00    
+(18/60): dbus-common-1.12.8-10.el8_2.noarch.rpm 3.4 MB/s |  45 kB     00:00    
+(19/60): dbus-daemon-1.12.8-10.el8_2.x86_64.rpm  16 MB/s | 239 kB     00:00    
+(20/60): dbus-libs-1.12.8-10.el8_2.x86_64.rpm    12 MB/s | 183 kB     00:00    
+(21/60): dbus-tools-1.12.8-10.el8_2.x86_64.rpm  6.8 MB/s |  85 kB     00:00    
+(22/60): dnf-4.2.17-7.el8_2.noarch.rpm           18 MB/s | 469 kB     00:00    
+(23/60): dnf-data-4.2.17-7.el8_2.noarch.rpm      11 MB/s | 145 kB     00:00    
+(24/60): dnf-plugins-core-4.0.12-4.el8_2.noarch 5.0 MB/s |  64 kB     00:00    
+(25/60): gnutls-3.6.8-11.el8_2.x86_64.rpm        26 MB/s | 915 kB     00:00    
+(26/60): grub2-common-2.02-87.el8_2.noarch.rpm   27 MB/s | 882 kB     00:00    
+(27/60): grub2-pc-2.02-87.el8_2.x86_64.rpm      969 kB/s |  37 kB     00:00    
+(28/60): kernel-modules-4.18.0-193.19.1.el8_2.x  10 MB/s |  23 MB     00:02    
+(29/60): NetworkManager-libnm-1.22.8-5.el8_2.x8 1.4 MB/s | 1.7 MB     00:01    
+(30/60): grub2-pc-modules-2.02-87.el8_2.noarch. 5.9 MB/s | 863 kB     00:00    
+(31/60): grub2-tools-minimal-2.02-87.el8_2.x86_  15 MB/s | 202 kB     00:00    
+(32/60): grub2-tools-2.02-87.el8_2.x86_64.rpm    33 MB/s | 2.0 MB     00:00    
+(33/60): initscripts-10.00.6-1.el8_2.2.x86_64.r  11 MB/s | 338 kB     00:00    
+(34/60): kernel-tools-4.18.0-193.19.1.el8_2.x86  38 MB/s | 3.0 MB     00:00    
+(35/60): kpartx-0.8.3-3.el8_2.3.x86_64.rpm      6.2 MB/s | 105 kB     00:00    
+(36/60): libcroco-0.6.12-4.el8_2.1.x86_64.rpm   8.0 MB/s | 113 kB     00:00    
+(37/60): kernel-tools-libs-4.18.0-193.19.1.el8_  21 MB/s | 2.8 MB     00:00    
+(38/60): libdnf-0.39.1-6.el8_2.x86_64.rpm        20 MB/s | 620 kB     00:00    
+(39/60): libnghttp2-1.33.0-3.el8_2.1.x86_64.rpm 6.5 MB/s |  77 kB     00:00    
+(40/60): grub2-tools-extra-2.02-87.el8_2.x86_64 5.1 MB/s | 1.1 MB     00:00    
+(41/60): librepo-1.11.0-3.el8_2.x86_64.rpm      5.2 MB/s |  90 kB     00:00    
+(42/60): libteam-1.29-1.el8_2.2.x86_64.rpm      4.3 MB/s |  63 kB     00:00    
+(43/60): python3-dnf-plugins-core-4.0.12-4.el8_  12 MB/s | 204 kB     00:00    
+(44/60): python3-hawkey-0.39.1-6.el8_2.x86_64.r 7.4 MB/s |  99 kB     00:00    
+(45/60): microcode_ctl-20191115-4.20200609.1.el  43 MB/s | 2.7 MB     00:00    
+(46/60): python3-libdnf-0.39.1-6.el8_2.x86_64.r  14 MB/s | 689 kB     00:00    
+(47/60): python3-librepo-1.11.0-3.el8_2.x86_64. 3.3 MB/s |  52 kB     00:00    
+(48/60): python3-dnf-4.2.17-7.el8_2.noarch.rpm  5.6 MB/s | 521 kB     00:00    
+(49/60): python3-syspurpose-1.26.20-1.el8_2.x86  18 MB/s | 287 kB     00:00    
+(50/60): selinux-policy-3.14.3-41.el8_2.6.noarc 6.3 MB/s | 615 kB     00:00    
+(51/60): python3-perf-4.18.0-193.19.1.el8_2.x86  23 MB/s | 2.9 MB     00:00    
+(52/60): systemd-libs-239-31.el8_2.2.x86_64.rpm  15 MB/s | 1.1 MB     00:00    
+(53/60): systemd-pam-239-31.el8_2.2.x86_64.rpm   15 MB/s | 451 kB     00:00    
+(54/60): selinux-policy-targeted-3.14.3-41.el8_  49 MB/s |  15 MB     00:00    
+(55/60): systemd-udev-239-31.el8_2.2.x86_64.rpm  11 MB/s | 1.3 MB     00:00    
+(56/60): teamd-1.29-1.el8_2.2.x86_64.rpm        6.4 MB/s | 128 kB     00:00    
+(57/60): yum-4.2.17-7.el8_2.noarch.rpm           12 MB/s | 191 kB     00:00    
+(58/60): tzdata-2020a-1.el8.noarch.rpm           18 MB/s | 469 kB     00:00    
+(59/60): zlib-1.2.11-16.el8_2.x86_64.rpm        8.0 MB/s | 102 kB     00:00    
+(60/60): systemd-239-31.el8_2.2.x86_64.rpm      8.7 MB/s | 3.5 MB     00:00    
+--------------------------------------------------------------------------------
+Total                                            29 MB/s | 109 MB     00:03     
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1 
+  Running scriptlet: grub2-common-1:2.02-87.el8_2.noarch                    1/1 
+  Upgrading        : grub2-common-1:2.02-87.el8_2.noarch                  1/116 
+  Upgrading        : librepo-1.11.0-3.el8_2.x86_64                        2/116 
+  Upgrading        : gnutls-3.6.8-11.el8_2.x86_64                         3/116 
+  Upgrading        : libdnf-0.39.1-6.el8_2.x86_64                         4/116 
+  Upgrading        : python3-libdnf-0.39.1-6.el8_2.x86_64                 5/116 
+  Upgrading        : python3-hawkey-0.39.1-6.el8_2.x86_64                 6/116 
+  Upgrading        : grub2-tools-minimal-1:2.02-87.el8_2.x86_64           7/116 
+  Upgrading        : zlib-1.2.11-16.el8_2.x86_64                          8/116 
+  Upgrading        : grub2-tools-extra-1:2.02-87.el8_2.x86_64             9/116 
+  Upgrading        : grub2-pc-modules-1:2.02-87.el8_2.noarch             10/116 
+  Running scriptlet: grub2-tools-1:2.02-87.el8_2.x86_64                  11/116 
+  Upgrading        : grub2-tools-1:2.02-87.el8_2.x86_64                  11/116 
+  Running scriptlet: grub2-tools-1:2.02-87.el8_2.x86_64                  11/116 
+  Upgrading        : libteam-1.29-1.el8_2.2.x86_64                       12/116 
+  Running scriptlet: libteam-1.29-1.el8_2.2.x86_64                       12/116 
+  Upgrading        : kernel-tools-libs-4.18.0-193.19.1.el8_2.x86_64      13/116 
+  Running scriptlet: kernel-tools-libs-4.18.0-193.19.1.el8_2.x86_64      13/116 
+  Upgrading        : dnf-data-4.2.17-7.el8_2.noarch                      14/116 
+  Upgrading        : dbus-common-1:1.12.8-10.el8_2.noarch                15/116 
+  Upgrading        : coreutils-common-8.30-7.el8_2.1.x86_64              16/116 
+  Running scriptlet: coreutils-common-8.30-7.el8_2.1.x86_64              16/116 
+  Upgrading        : coreutils-8.30-7.el8_2.1.x86_64                     17/116 
+  Upgrading        : systemd-libs-239-31.el8_2.2.x86_64                  18/116 
+  Running scriptlet: systemd-libs-239-31.el8_2.2.x86_64                  18/116 
+  Upgrading        : dbus-libs-1:1.12.8-10.el8_2.x86_64                  19/116 
+  Running scriptlet: dbus-libs-1:1.12.8-10.el8_2.x86_64                  19/116 
+  Upgrading        : NetworkManager-libnm-1:1.22.8-5.el8_2.x86_64        20/116 
+  Running scriptlet: NetworkManager-libnm-1:1.22.8-5.el8_2.x86_64        20/116 
+  Upgrading        : dbus-tools-1:1.12.8-10.el8_2.x86_64                 21/116 
+  Running scriptlet: dbus-daemon-1:1.12.8-10.el8_2.x86_64                22/116 
+  Upgrading        : dbus-daemon-1:1.12.8-10.el8_2.x86_64                22/116 
+  Running scriptlet: dbus-daemon-1:1.12.8-10.el8_2.x86_64                22/116 
+  Upgrading        : systemd-pam-239-31.el8_2.2.x86_64                   23/116 
+  Running scriptlet: systemd-239-31.el8_2.2.x86_64                       24/116 
+  Upgrading        : systemd-239-31.el8_2.2.x86_64                       24/116 
+  Running scriptlet: systemd-239-31.el8_2.2.x86_64                       24/116 
+  Upgrading        : dbus-1:1.12.8-10.el8_2.x86_64                       25/116 
+  Running scriptlet: NetworkManager-1:1.22.8-5.el8_2.x86_64              26/116 
+  Upgrading        : NetworkManager-1:1.22.8-5.el8_2.x86_64              26/116 
+  Running scriptlet: NetworkManager-1:1.22.8-5.el8_2.x86_64              26/116 
+  Running scriptlet: unbound-libs-1.7.3-11.el8_2.x86_64                  27/116 
+  Upgrading        : unbound-libs-1.7.3-11.el8_2.x86_64                  27/116 
+  Running scriptlet: unbound-libs-1.7.3-11.el8_2.x86_64                  27/116 
+  Upgrading        : python3-unbound-1.7.3-11.el8_2.x86_64               28/116 
+  Upgrading        : python3-dnf-4.2.17-7.el8_2.noarch                   29/116 
+  Upgrading        : dnf-4.2.17-7.el8_2.noarch                           30/116 
+  Running scriptlet: dnf-4.2.17-7.el8_2.noarch                           30/116 
+  Upgrading        : python3-dnf-plugins-core-4.0.12-4.el8_2.noarch      31/116 
+  Upgrading        : systemd-udev-239-31.el8_2.2.x86_64                  32/116 
+  Running scriptlet: systemd-udev-239-31.el8_2.2.x86_64                  32/116 
+  Installing       : kernel-core-4.18.0-193.19.1.el8_2.x86_64            33/116 
+  Running scriptlet: kernel-core-4.18.0-193.19.1.el8_2.x86_64            33/116 
+  Installing       : kernel-modules-4.18.0-193.19.1.el8_2.x86_64         34/116 
+  Running scriptlet: kernel-modules-4.18.0-193.19.1.el8_2.x86_64         34/116 
+  Upgrading        : teamd-1.29-1.el8_2.2.x86_64                         35/116 
+  Upgrading        : selinux-policy-3.14.3-41.el8_2.6.noarch             36/116 
+  Running scriptlet: selinux-policy-3.14.3-41.el8_2.6.noarch             36/116 
+  Upgrading        : centos-gpg-keys-8.2-2.2004.0.2.el8.noarch           37/116 
+  Upgrading        : centos-release-8.2-2.2004.0.2.el8.x86_64            38/116 
+  Upgrading        : centos-repos-8.2-2.2004.0.2.el8.x86_64              39/116 
+  Running scriptlet: selinux-policy-targeted-3.14.3-41.el8_2.6.noarch    40/116 
+  Upgrading        : selinux-policy-targeted-3.14.3-41.el8_2.6.noarch    40/116 
+  Running scriptlet: selinux-policy-targeted-3.14.3-41.el8_2.6.noarch    40/116 
+  Upgrading        : NetworkManager-team-1:1.22.8-5.el8_2.x86_64         41/116 
+  Installing       : kernel-4.18.0-193.19.1.el8_2.x86_64                 42/116 
+  Upgrading        : dnf-plugins-core-4.0.12-4.el8_2.noarch              43/116 
+  Upgrading        : yum-4.2.17-7.el8_2.noarch                           44/116 
+  Upgrading        : NetworkManager-tui-1:1.22.8-5.el8_2.x86_64          45/116 
+  Upgrading        : open-vm-tools-11.0.5-3.el8.x86_64                   46/116 
+  Running scriptlet: open-vm-tools-11.0.5-3.el8.x86_64                   46/116 
+  Upgrading        : initscripts-10.00.6-1.el8_2.2.x86_64                47/116 
+  Running scriptlet: initscripts-10.00.6-1.el8_2.2.x86_64                47/116 
+  Upgrading        : microcode_ctl-4:20191115-4.20200609.1.el8_2.x86_    48/116 
+  Running scriptlet: microcode_ctl-4:20191115-4.20200609.1.el8_2.x86_    48/116 
+  Running scriptlet: ca-certificates-2020.2.41-80.0.el8_2.noarch         49/116 
+  Upgrading        : ca-certificates-2020.2.41-80.0.el8_2.noarch         49/116 
+  Running scriptlet: ca-certificates-2020.2.41-80.0.el8_2.noarch         49/116 
+  Upgrading        : kernel-tools-4.18.0-193.19.1.el8_2.x86_64           50/116 
+  Upgrading        : grub2-pc-1:2.02-87.el8_2.x86_64                     51/116 
+  Upgrading        : python3-librepo-1.11.0-3.el8_2.x86_64               52/116 
+  Installing       : grub2-tools-efi-1:2.02-87.el8_2.x86_64              53/116 
+  Upgrading        : tzdata-2020a-1.el8.noarch                           54/116 
+  Upgrading        : python3-syspurpose-1.26.20-1.el8_2.x86_64           55/116 
+  Upgrading        : python3-perf-4.18.0-193.19.1.el8_2.x86_64           56/116 
+  Upgrading        : libnghttp2-1.33.0-3.el8_2.1.x86_64                  57/116 
+  Upgrading        : libcroco-0.6.12-4.el8_2.1.x86_64                    58/116 
+  Running scriptlet: libcroco-0.6.12-4.el8_2.1.x86_64                    58/116 
+  Upgrading        : kpartx-0.8.3-3.el8_2.3.x86_64                       59/116 
+  Upgrading        : bind-export-libs-32:9.11.13-6.el8_2.1.x86_64        60/116 
+  Running scriptlet: bind-export-libs-32:9.11.13-6.el8_2.1.x86_64        60/116 
+  Cleanup          : NetworkManager-tui-1:1.22.8-4.el8.x86_64            61/116 
+  Cleanup          : grub2-pc-1:2.02-81.el8.x86_64                       62/116 
+  Cleanup          : systemd-udev-239-29.el8.x86_64                      63/116 
+  Running scriptlet: systemd-udev-239-29.el8.x86_64                      63/116 
+  Running scriptlet: initscripts-10.00.6-1.el8.x86_64                    64/116 
+  Cleanup          : initscripts-10.00.6-1.el8.x86_64                    64/116 
+  Running scriptlet: initscripts-10.00.6-1.el8.x86_64                    64/116 
+  Running scriptlet: open-vm-tools-11.0.0-4.el8.x86_64                   65/116 
+  Cleanup          : open-vm-tools-11.0.0-4.el8.x86_64                   65/116 
+  Running scriptlet: open-vm-tools-11.0.0-4.el8.x86_64                   65/116 
+  Cleanup          : selinux-policy-targeted-3.14.3-41.el8.noarch        66/116 
+  Running scriptlet: selinux-policy-targeted-3.14.3-41.el8.noarch        66/116 
+  Running scriptlet: microcode_ctl-4:20191115-4.el8.x86_64               67/116 
+  Cleanup          : microcode_ctl-4:20191115-4.el8.x86_64               67/116 
+  Running scriptlet: microcode_ctl-4:20191115-4.el8.x86_64               67/116 
+  Cleanup          : centos-release-8.2-2.2004.0.1.el8.x86_64            68/116 
+  Cleanup          : grub2-tools-extra-1:2.02-81.el8.x86_64              69/116 
+  Cleanup          : python3-librepo-1.11.0-2.el8.x86_64                 70/116 
+  Cleanup          : kernel-tools-4.18.0-193.el8.x86_64                  71/116 
+  Cleanup          : NetworkManager-team-1:1.22.8-4.el8.x86_64           72/116 
+  Cleanup          : centos-repos-8.2-2.2004.0.1.el8.x86_64              73/116 
+  Cleanup          : selinux-policy-3.14.3-41.el8.noarch                 74/116 
+  Running scriptlet: selinux-policy-3.14.3-41.el8.noarch                 74/116 
+  Cleanup          : grub2-pc-modules-1:2.02-81.el8.noarch               75/116 
+  Cleanup          : yum-4.2.17-6.el8.noarch                             76/116 
+  Running scriptlet: dnf-4.2.17-6.el8.noarch                             77/116 
+  Cleanup          : dnf-4.2.17-6.el8.noarch                             77/116 
+  Running scriptlet: dnf-4.2.17-6.el8.noarch                             77/116 
+  Cleanup          : dnf-plugins-core-4.0.12-3.el8.noarch                78/116 
+  Cleanup          : python3-dnf-plugins-core-4.0.12-3.el8.noarch        79/116 
+  Cleanup          : python3-dnf-4.2.17-6.el8.noarch                     80/116 
+  Cleanup          : ca-certificates-2019.2.32-80.0.el8_1.noarch         81/116 
+  Cleanup          : dnf-data-4.2.17-6.el8.noarch                        82/116 
+  Cleanup          : centos-gpg-keys-8.2-2.2004.0.1.el8.noarch           83/116 
+  Cleanup          : tzdata-2019c-1.el8.noarch                           84/116 
+  Cleanup          : python3-syspurpose-1.26.16-1.el8.0.1.x86_64         85/116 
+  Running scriptlet: NetworkManager-1:1.22.8-4.el8.x86_64                86/116 
+  Cleanup          : NetworkManager-1:1.22.8-4.el8.x86_64                86/116 
+  Running scriptlet: NetworkManager-1:1.22.8-4.el8.x86_64                86/116 
+  Cleanup          : NetworkManager-libnm-1:1.22.8-4.el8.x86_64          87/116 
+  Running scriptlet: NetworkManager-libnm-1:1.22.8-4.el8.x86_64          87/116 
+  Cleanup          : python3-hawkey-0.39.1-5.el8.x86_64                  88/116 
+  Cleanup          : teamd-1.29-1.el8.x86_64                             89/116 
+  Cleanup          : python3-libdnf-0.39.1-5.el8.x86_64                  90/116 
+  Cleanup          : libdnf-0.39.1-5.el8.x86_64                          91/116 
+  Cleanup          : python3-unbound-1.7.3-10.el8.x86_64                 92/116 
+  Running scriptlet: unbound-libs-1.7.3-10.el8.x86_64                    93/116 
+  Cleanup          : unbound-libs-1.7.3-10.el8.x86_64                    93/116 
+  Running scriptlet: unbound-libs-1.7.3-10.el8.x86_64                    93/116 
+  Cleanup          : dbus-1:1.12.8-9.el8.x86_64                          94/116 
+  Running scriptlet: systemd-239-29.el8.x86_64                           95/116 
+  Cleanup          : systemd-239-29.el8.x86_64                           95/116 
+  Running scriptlet: dbus-daemon-1:1.12.8-9.el8.x86_64                   96/116 
+  Cleanup          : dbus-daemon-1:1.12.8-9.el8.x86_64                   96/116 
+  Running scriptlet: dbus-daemon-1:1.12.8-9.el8.x86_64                   96/116 
+  Cleanup          : dbus-tools-1:1.12.8-9.el8.x86_64                    97/116 
+  Cleanup          : dbus-libs-1:1.12.8-9.el8.x86_64                     98/116 
+  Running scriptlet: dbus-libs-1:1.12.8-9.el8.x86_64                     98/116 
+  Cleanup          : systemd-libs-239-29.el8.x86_64                      99/116 
+  Cleanup          : coreutils-8.30-6.el8_1.1.x86_64                    100/116 
+  Cleanup          : grub2-tools-minimal-1:2.02-81.el8.x86_64           101/116 
+  Running scriptlet: grub2-tools-1:2.02-81.el8.x86_64                   102/116 
+  Cleanup          : grub2-tools-1:2.02-81.el8.x86_64                   102/116 
+  Cleanup          : grub2-common-1:2.02-81.el8.noarch                  103/116 
+  Running scriptlet: coreutils-common-8.30-6.el8_1.1.x86_64             104/116 
+  Cleanup          : coreutils-common-8.30-6.el8_1.1.x86_64             104/116 
+  Cleanup          : dbus-common-1:1.12.8-9.el8.noarch                  105/116 
+  Cleanup          : gnutls-3.6.8-9.el8.x86_64                          106/116 
+  Cleanup          : zlib-1.2.11-13.el8.x86_64                          107/116 
+  Cleanup          : systemd-pam-239-29.el8.x86_64                      108/116 
+  Cleanup          : librepo-1.11.0-2.el8.x86_64                        109/116 
+  Cleanup          : libteam-1.29-1.el8.x86_64                          110/116 
+  Running scriptlet: libteam-1.29-1.el8.x86_64                          110/116 
+  Cleanup          : kernel-tools-libs-4.18.0-193.el8.x86_64            111/116 
+  Running scriptlet: kernel-tools-libs-4.18.0-193.el8.x86_64            111/116 
+  Cleanup          : python3-perf-4.18.0-193.el8.x86_64                 112/116 
+  Cleanup          : libnghttp2-1.33.0-1.el8_0.1.x86_64                 113/116 
+  Cleanup          : libcroco-0.6.12-4.el8.x86_64                       114/116 
+  Running scriptlet: libcroco-0.6.12-4.el8.x86_64                       114/116 
+  Cleanup          : kpartx-0.8.3-3.el8.x86_64                          115/116 
+  Cleanup          : bind-export-libs-32:9.11.13-3.el8.x86_64           116/116 
+  Running scriptlet: bind-export-libs-32:9.11.13-3.el8.x86_64           116/116 
+  Running scriptlet: kernel-core-4.18.0-193.19.1.el8_2.x86_64           116/116 
+  Running scriptlet: microcode_ctl-4:20191115-4.20200609.1.el8_2.x86_   116/116 
+  Running scriptlet: ca-certificates-2020.2.41-80.0.el8_2.noarch        116/116 
+  Running scriptlet: bind-export-libs-32:9.11.13-3.el8.x86_64           116/116 
+  Running scriptlet: systemd-239-31.el8_2.2.x86_64                      116/116 
+  Running scriptlet: systemd-udev-239-31.el8_2.2.x86_64                 116/116

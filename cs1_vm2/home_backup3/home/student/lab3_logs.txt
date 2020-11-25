@@ -1,0 +1,8 @@
+---------- /var/log/message ----------
+---------- /var/log/message ----------
+---------- /var/log/message ----------
+---------- /var/log/message ----------
+---------- /var/log/message ----------
+---------- /var/log/message ----------
+---------- /var/log/message ----------
+---------- /var/log/message ----------
